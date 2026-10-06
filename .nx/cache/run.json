@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run jobber-auth:build:development",
+    "startTime": "2026-10-05T08:57:32.782Z",
+    "endTime": "2026-10-05T08:57:35.322Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "jobber-auth:build:development",
+      "target": "build",
+      "projectName": "jobber-auth",
+      "hash": "6816532034039089052",
+      "startTime": "2026-10-05T08:57:32.792Z",
+      "endTime": "2026-10-05T08:57:35.307Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}

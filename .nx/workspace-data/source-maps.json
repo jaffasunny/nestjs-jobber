@@ -1,0 +1,1182 @@
+{
+  "apps/jobber-auth": {
+    "root": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.cache": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.dependsOn.0": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.dependsOn": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.inputs.0": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.inputs.1": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.inputs.2": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.inputs.3": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.inputs.4": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.inputs.5": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.inputs.6": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.inputs": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.outputs.0": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.outputs": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.executor": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.options.cwd": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.options.env": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.options.command": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.options": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.configurations.development.env": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.configurations.development": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.configurations": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.technologies": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.technologies.0": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.description": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.help": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.help.command": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build.metadata.help.example": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.continuous": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.executor": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.options.cwd": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.options.env": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.options.command": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.options": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.technologies": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.technologies.0": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.description": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.help": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.help.command": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.preview.metadata.help.example": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build-deps": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build-deps.dependsOn.0": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.build-deps.dependsOn": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.continuous": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.dependsOn.0": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.dependsOn": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.executor": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.options.command": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.watch-deps.options": [
+      "apps/jobber-auth/webpack.config.js",
+      "@nx/webpack/plugin"
+    ],
+    "targets.lint": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.cache": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.0": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.1": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.2": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.3": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.4": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.5": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.outputs.0": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.outputs": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.executor": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.cwd": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.command": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies.0": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.description": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.command": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.example": [
+      "apps/jobber-auth/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "metadata.targetGroups": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI)": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).1": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).2": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).3": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.cache": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.1": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.2": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.3": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.4": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.5": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.6": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.outputs.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.outputs": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.executor": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.options.cwd": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.options.command": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.options": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.technologies": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.technologies.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.description": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.help": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.help.command": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.help.example": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.cache": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.inputs.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.inputs.1": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.inputs.2": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.inputs.3": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.inputs.4": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.inputs.5": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.inputs.6": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.inputs": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.outputs.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.outputs": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.metadata": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.executor": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.options.cwd": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.options.command": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.options": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.metadata.technologies": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.metadata.technologies.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.metadata.description": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.metadata.help": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.metadata.help.command": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.controller.spec.ts.metadata.help.example": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.cache": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.inputs.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.inputs.1": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.inputs.2": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.inputs.3": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.inputs.4": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.inputs.5": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.inputs.6": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.inputs": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.outputs.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.outputs": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.metadata": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.executor": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.options.cwd": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.options.command": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.options": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.metadata.technologies": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.metadata.technologies.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.metadata.description": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.metadata.help": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.metadata.help.command": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/app.service.spec.ts.metadata.help.example": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.cache": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.inputs.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.inputs.1": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.inputs.2": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.inputs.3": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.inputs.4": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.inputs.5": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.inputs.6": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.inputs": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.outputs.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.outputs": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.metadata": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.executor": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.options.cwd": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.options.command": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.options": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.metadata.technologies": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.metadata.technologies.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.metadata.description": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.metadata.help": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.metadata.help.command": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/prisma/prisma.service.spec.ts.metadata.help.example": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.executor": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.cache": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.1": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.2": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.3": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.4": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.5": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.6": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.outputs.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.outputs.1": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.outputs.2": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.outputs": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.1": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.2": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.technologies": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.technologies.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.description": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.nonAtomizedTarget": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.help": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.help.command": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.help.example": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "name": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune-lockfile": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune-lockfile.dependsOn.0": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune-lockfile.dependsOn": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune-lockfile.cache": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune-lockfile.executor": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune-lockfile.outputs.0": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune-lockfile.outputs.1": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune-lockfile.outputs": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune-lockfile.options.buildTarget": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune-lockfile.options": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.copy-workspace-modules": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.copy-workspace-modules.dependsOn.0": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.copy-workspace-modules.dependsOn": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.copy-workspace-modules.cache": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.copy-workspace-modules.outputs.0": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.copy-workspace-modules.outputs": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.copy-workspace-modules.executor": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.copy-workspace-modules.options.buildTarget": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.copy-workspace-modules.options": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune.dependsOn.0": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune.dependsOn.1": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune.dependsOn": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.prune.executor": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.continuous": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.defaultConfiguration": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.dependsOn.0": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.dependsOn": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.buildTarget": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.runBuildTargetDependencies": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development.buildTarget": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production.buildTarget": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.generate-types": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.generate-types.executor": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.generate-types.options.cwd": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.generate-types.options.command": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.generate-types.options": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.migrate-prisma": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.migrate-prisma.executor": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.migrate-prisma.options.cwd": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.migrate-prisma.options.command": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.migrate-prisma.options": [
+      "apps/jobber-auth/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "apps/jobber-auth-e2e": {
+    "root": [
+      "apps/jobber-auth-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.cache": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.0": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.1": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.2": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.3": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.4": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.5": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.outputs.0": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.outputs": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.executor": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.cwd": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.command": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies.0": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.description": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.command": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.example": [
+      "apps/jobber-auth-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "name": [
+      "apps/jobber-auth-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "apps/jobber-auth-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/jobber-auth-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "implicitDependencies": [
+      "apps/jobber-auth-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "implicitDependencies.jobber-auth": [
+      "apps/jobber-auth-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.e2e": [
+      "apps/jobber-auth-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.e2e.executor": [
+      "apps/jobber-auth-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.e2e.outputs.0": [
+      "apps/jobber-auth-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.e2e.outputs": [
+      "apps/jobber-auth-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.e2e.dependsOn.0": [
+      "apps/jobber-auth-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.e2e.dependsOn.1": [
+      "apps/jobber-auth-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.e2e.dependsOn": [
+      "apps/jobber-auth-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.e2e.options.jestConfig": [
+      "apps/jobber-auth-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.e2e.options.passWithNoTests": [
+      "apps/jobber-auth-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.e2e.options": [
+      "apps/jobber-auth-e2e/project.json",
+      "nx/core/project-json"
+    ]
+  }
+}
