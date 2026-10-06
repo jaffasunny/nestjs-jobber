@@ -18,6 +18,168 @@
         "hash": "sha512-lnw+ZM1Io+cJAkReC0NPDjqObL8NtKzKIkdgEEKC8CUmkhurYhedbicN8Y8NYHgG1uLd2GozW3+/QqPRZaN+Lw=="
       }
     },
+    "npm:@apollo/cache-control-types": {
+      "type": "npm",
+      "name": "npm:@apollo/cache-control-types",
+      "data": {
+        "version": "1.0.3",
+        "packageName": "@apollo/cache-control-types",
+        "hash": "sha512-F17/vCp7QVwom9eG7ToauIKdAxpSoadsJnqIfyryLFSkLSOEqu+eC5Z3N8OXcUVStuOMcNHlyraRsA6rRICu4g=="
+      }
+    },
+    "npm:@apollo/protobufjs": {
+      "type": "npm",
+      "name": "npm:@apollo/protobufjs",
+      "data": {
+        "version": "1.2.8",
+        "packageName": "@apollo/protobufjs",
+        "hash": "sha512-r7xNeUqZX+eBBEmyvaPw0/cSz6zgf5jdH8mjUz8ynKpNs/GU7vi2T7sNcZINk2ZID7wwjG91FCgdpCrQuJ8rzA=="
+      }
+    },
+    "npm:@apollo/server-gateway-interface": {
+      "type": "npm",
+      "name": "npm:@apollo/server-gateway-interface",
+      "data": {
+        "version": "2.0.0",
+        "packageName": "@apollo/server-gateway-interface",
+        "hash": "sha512-3HEMD6fSantG2My3jWkb9dvfkF9vJ4BDLRjMgsnD790VINtuPaEp+h3Hg9HOHiWkML6QsOhnaRqZ+gvhp3y8Nw=="
+      }
+    },
+    "npm:@apollo/server": {
+      "type": "npm",
+      "name": "npm:@apollo/server",
+      "data": {
+        "version": "5.5.1",
+        "packageName": "@apollo/server",
+        "hash": "sha512-Rn3g5TJQsMSUY23CWZTghWdBWyjX7dP1eaEBPkvmM2RHi82cDcpgTIkSCbGvtTUEGjwopLv1AAooU/n7iIZ20A=="
+      }
+    },
+    "npm:@apollo/usage-reporting-protobuf": {
+      "type": "npm",
+      "name": "npm:@apollo/usage-reporting-protobuf",
+      "data": {
+        "version": "4.1.2",
+        "packageName": "@apollo/usage-reporting-protobuf",
+        "hash": "sha512-aTnAD41RYz0d5dawlyR5Iclkgzx0Xb0njUJmEfvZ6pS4f4HU8wCYyctPpWat/HWp2PmRwDfX5R1k4uVcDKZ4xA=="
+      }
+    },
+    "npm:@apollo/utils.createhash": {
+      "type": "npm",
+      "name": "npm:@apollo/utils.createhash",
+      "data": {
+        "version": "3.0.1",
+        "packageName": "@apollo/utils.createhash",
+        "hash": "sha512-CKrlySj4eQYftBE5MJ8IzKwIibQnftDT7yGfsJy5KSEEnLlPASX0UTpbKqkjlVEwPPd4mEwI7WOM7XNxEuO05A=="
+      }
+    },
+    "npm:@apollo/utils.dropunuseddefinitions": {
+      "type": "npm",
+      "name": "npm:@apollo/utils.dropunuseddefinitions",
+      "data": {
+        "version": "2.0.1",
+        "packageName": "@apollo/utils.dropunuseddefinitions",
+        "hash": "sha512-EsPIBqsSt2BwDsv8Wu76LK5R1KtsVkNoO4b0M5aK0hx+dGg9xJXuqlr7Fo34Dl+y83jmzn+UvEW+t1/GP2melA=="
+      }
+    },
+    "npm:@apollo/utils.fetcher": {
+      "type": "npm",
+      "name": "npm:@apollo/utils.fetcher",
+      "data": {
+        "version": "3.1.0",
+        "packageName": "@apollo/utils.fetcher",
+        "hash": "sha512-Z3QAyrsQkvrdTuHAFwWDNd+0l50guwoQUoaDQssLOjkmnmVuvXlJykqlEJolio+4rFwBnWdoY1ByFdKaQEcm7A=="
+      }
+    },
+    "npm:@apollo/utils.isnodelike": {
+      "type": "npm",
+      "name": "npm:@apollo/utils.isnodelike",
+      "data": {
+        "version": "3.0.0",
+        "packageName": "@apollo/utils.isnodelike",
+        "hash": "sha512-xrjyjfkzunZ0DeF6xkHaK5IKR8F1FBq6qV+uZ+h9worIF/2YSzA0uoBxGv6tbTeo9QoIQnRW4PVFzGix5E7n/g=="
+      }
+    },
+    "npm:@apollo/utils.keyvaluecache": {
+      "type": "npm",
+      "name": "npm:@apollo/utils.keyvaluecache",
+      "data": {
+        "version": "4.0.0",
+        "packageName": "@apollo/utils.keyvaluecache",
+        "hash": "sha512-mKw1myRUkQsGPNB+9bglAuhviodJ2L2MRYLTafCMw5BIo7nbvCPNCkLnIHjZ1NOzH7SnMAr5c9LmXiqsgYqLZw=="
+      }
+    },
+    "npm:@apollo/utils.logger": {
+      "type": "npm",
+      "name": "npm:@apollo/utils.logger",
+      "data": {
+        "version": "3.0.0",
+        "packageName": "@apollo/utils.logger",
+        "hash": "sha512-M8V8JOTH0F2qEi+ktPfw4RL7MvUycDfKp7aEap2eWXfL5SqWHN6jTLbj5f5fj1cceHpyaUSOZlvlaaryaxZAmg=="
+      }
+    },
+    "npm:@apollo/utils.printwithreducedwhitespace": {
+      "type": "npm",
+      "name": "npm:@apollo/utils.printwithreducedwhitespace",
+      "data": {
+        "version": "2.0.1",
+        "packageName": "@apollo/utils.printwithreducedwhitespace",
+        "hash": "sha512-9M4LUXV/fQBh8vZWlLvb/HyyhjJ77/I5ZKu+NBWV/BmYGyRmoEP9EVAy7LCVoY3t8BDcyCAGfxJaLFCSuQkPUg=="
+      }
+    },
+    "npm:@apollo/utils.removealiases": {
+      "type": "npm",
+      "name": "npm:@apollo/utils.removealiases",
+      "data": {
+        "version": "2.0.1",
+        "packageName": "@apollo/utils.removealiases",
+        "hash": "sha512-0joRc2HBO4u594Op1nev+mUF6yRnxoUH64xw8x3bX7n8QBDYdeYgY4tF0vJReTy+zdn2xv6fMsquATSgC722FA=="
+      }
+    },
+    "npm:@apollo/utils.sortast": {
+      "type": "npm",
+      "name": "npm:@apollo/utils.sortast",
+      "data": {
+        "version": "2.0.1",
+        "packageName": "@apollo/utils.sortast",
+        "hash": "sha512-eciIavsWpJ09za1pn37wpsCGrQNXUhM0TktnZmHwO+Zy9O4fu/WdB4+5BvVhFiZYOXvfjzJUcc+hsIV8RUOtMw=="
+      }
+    },
+    "npm:@apollo/utils.stripsensitiveliterals": {
+      "type": "npm",
+      "name": "npm:@apollo/utils.stripsensitiveliterals",
+      "data": {
+        "version": "2.0.1",
+        "packageName": "@apollo/utils.stripsensitiveliterals",
+        "hash": "sha512-QJs7HtzXS/JIPMKWimFnUMK7VjkGQTzqD9bKD1h3iuPAqLsxd0mUNVbkYOPTsDhUKgcvUOfOqOJWYohAKMvcSA=="
+      }
+    },
+    "npm:@apollo/utils.usagereporting": {
+      "type": "npm",
+      "name": "npm:@apollo/utils.usagereporting",
+      "data": {
+        "version": "2.1.0",
+        "packageName": "@apollo/utils.usagereporting",
+        "hash": "sha512-LPSlBrn+S17oBy5eWkrRSGb98sWmnEzo3DPTZgp8IQc8sJe0prDgDuppGq4NeQlpoqEHz0hQeYHAOA0Z3aQsxQ=="
+      }
+    },
+    "npm:@apollo/utils.withrequired": {
+      "type": "npm",
+      "name": "npm:@apollo/utils.withrequired",
+      "data": {
+        "version": "3.0.0",
+        "packageName": "@apollo/utils.withrequired",
+        "hash": "sha512-aaxeavfJ+RHboh7c2ofO5HHtQobGX4AgUujXP4CXpREHp9fQ9jPi6K9T1jrAKe7HIipoP0OJ1gd6JamSkFIpvA=="
+      }
+    },
+    "npm:@as-integrations/express5": {
+      "type": "npm",
+      "name": "npm:@as-integrations/express5",
+      "data": {
+        "version": "1.1.2",
+        "packageName": "@as-integrations/express5",
+        "hash": "sha512-BxfwtcWNf2CELDkuPQxi5Zl3WqY/dQVJYafeCBOGoFQjv5M0fjhxmAFZ9vKx/5YKKNeok4UY6PkFbHzmQrdxIA=="
+      }
+    },
     "npm:@babel/code-frame": {
       "type": "npm",
       "name": "npm:@babel/code-frame",
@@ -1503,6 +1665,69 @@
         "hash": "sha512-43/qtrDUokr7LJqoF2c3+RInu/t4zfrpYdoSDfYyhg52rwLV6TnOvdG4fXm7IkSB3wErkcmJS9iEhjVtOSEjjA=="
       }
     },
+    "npm:@graphql-tools/merge@9.2.4": {
+      "type": "npm",
+      "name": "npm:@graphql-tools/merge@9.2.4",
+      "data": {
+        "version": "9.2.4",
+        "packageName": "@graphql-tools/merge",
+        "hash": "sha512-vV+8uWNWn0+OsqT0r22lZuoT0cTe6fBqBtpLHre2rriLjI/ZTrsOHmabLPTUOyzgFnRrS2PzFSYGL3zKL1Wj4Q=="
+      }
+    },
+    "npm:@graphql-tools/merge@9.2.6": {
+      "type": "npm",
+      "name": "npm:@graphql-tools/merge@9.2.6",
+      "data": {
+        "version": "9.2.6",
+        "packageName": "@graphql-tools/merge",
+        "hash": "sha512-M7iI/qoCnks6iITkimtdZgI2SrWOInr+QRWuhEsInaumzQGPd0pnWbRAVTRVcFN2Gu9hM2aS5kYzASC93d9epw=="
+      }
+    },
+    "npm:@graphql-tools/schema@10.1.1": {
+      "type": "npm",
+      "name": "npm:@graphql-tools/schema@10.1.1",
+      "data": {
+        "version": "10.1.1",
+        "packageName": "@graphql-tools/schema",
+        "hash": "sha512-24jJghRxEW+SG1lbJ45Zg9HEZ8ZKS923ihbFjOicspFLpryxJkWp6gZJ7D8tCVaSAhli4x1+1wDPAfhT8mLqxg=="
+      }
+    },
+    "npm:@graphql-tools/schema@10.1.3": {
+      "type": "npm",
+      "name": "npm:@graphql-tools/schema@10.1.3",
+      "data": {
+        "version": "10.1.3",
+        "packageName": "@graphql-tools/schema",
+        "hash": "sha512-N1ZpzguxzqTy5fpurqWQ5BXyjirlrtvVLeSafsu+SCDNjDeRnVxf9n5PVbdgzwFPAmP/7NK9sq9UB/kyR8oFiw=="
+      }
+    },
+    "npm:@graphql-tools/utils@12.0.1": {
+      "type": "npm",
+      "name": "npm:@graphql-tools/utils@12.0.1",
+      "data": {
+        "version": "12.0.1",
+        "packageName": "@graphql-tools/utils",
+        "hash": "sha512-8YC6jn4xYDS6YTY6xDAgQAs/nGgvzRaIGHS8GeSfVItQzNK7Ms24CQtE3EJY+amvR+tBnhRSX0N83aGj+V/RIg=="
+      }
+    },
+    "npm:@graphql-tools/utils@12.0.3": {
+      "type": "npm",
+      "name": "npm:@graphql-tools/utils@12.0.3",
+      "data": {
+        "version": "12.0.3",
+        "packageName": "@graphql-tools/utils",
+        "hash": "sha512-M+04bHvI1SKoug7W2EkwfKjig2mdtgIIlFY8p2jLHmxPNVs5bC/3R+58JrD+7ZXWgPILWTwuqJ9AqTjPlahroA=="
+      }
+    },
+    "npm:@graphql-typed-document-node/core": {
+      "type": "npm",
+      "name": "npm:@graphql-typed-document-node/core",
+      "data": {
+        "version": "3.2.0",
+        "packageName": "@graphql-typed-document-node/core",
+        "hash": "sha512-mB9oAsNCm9aM3/SOv4YtBMqZbYj10R7dkq8byBqxGY/ncFwhf2oQzMV+LCRlWoDSEBJ3COiR1yeDvMtsoOsuFQ=="
+      }
+    },
     "npm:@humanfs/core": {
       "type": "npm",
       "name": "npm:@humanfs/core",
@@ -2250,6 +2475,15 @@
         "hash": "sha512-AJxoUD2/15ESHbvpcyjU274nsAPLuOtPHCk0vKJM5pj//Fg/B1FXNWjPnXTT9PymCYYiHo4zPj0ZomXBKhoy7g=="
       }
     },
+    "npm:@nestjs/apollo": {
+      "type": "npm",
+      "name": "npm:@nestjs/apollo",
+      "data": {
+        "version": "14.0.3",
+        "packageName": "@nestjs/apollo",
+        "hash": "sha512-WDxv+iQPJgj2drsKvGDejmw0Gqbgl/3ZnR46N5k7N7YZ3J4UjEI499UeTTLqGPwOLzvRjsiQ6ZFA5jHS6CzHsw=="
+      }
+    },
     "npm:@nestjs/common": {
       "type": "npm",
       "name": "npm:@nestjs/common",
@@ -2266,6 +2500,24 @@
         "version": "11.2.7",
         "packageName": "@nestjs/core",
         "hash": "sha512-ynMkVOAEykJMtls1X+MQV3TNY6hrnMkyHowU8XY8R6UqM3tdqT4WNVtemQOmFrqHw3f85lbe765fcpZyjBOcqA=="
+      }
+    },
+    "npm:@nestjs/graphql": {
+      "type": "npm",
+      "name": "npm:@nestjs/graphql",
+      "data": {
+        "version": "14.0.3",
+        "packageName": "@nestjs/graphql",
+        "hash": "sha512-FN+5Mgeuu+/P5+fOaBuK/4Aircqhe/z5ptT0yyYVLw80j3wEzI3XEAlrdEzwDKJgdwrZncUyfjPkM+TJyLqdng=="
+      }
+    },
+    "npm:@nestjs/mapped-types": {
+      "type": "npm",
+      "name": "npm:@nestjs/mapped-types",
+      "data": {
+        "version": "12.0.0",
+        "packageName": "@nestjs/mapped-types",
+        "hash": "sha512-aX7lxZcqXldtnSr0bgT2ZPQvpTpIwBMW1GMX29o4s3q02vmq6JoTYuPW0GwYXa8BiFMRX7WbGZVDA703pNqOMQ=="
       }
     },
     "npm:@nestjs/platform-express": {
@@ -2916,6 +3168,96 @@
         "hash": "sha512-V2fX/nKEymNTrHXwfP26PGjoLStO35Ogu+ex7CFJbLrMYEcZxxZpiSNOs7px23Hk5mzLWvM5RsqG6Ka+rha+wg=="
       }
     },
+    "npm:@protobufjs/aspromise": {
+      "type": "npm",
+      "name": "npm:@protobufjs/aspromise",
+      "data": {
+        "version": "1.1.2",
+        "packageName": "@protobufjs/aspromise",
+        "hash": "sha512-j+gKExEuLmKwvz3OgROXtrJ2UG2x8Ch2YZUxahh+s1F2HZ+wAceUNLkvy6zKCPVRkU++ZWQrdxsUeQXmcg4uoQ=="
+      }
+    },
+    "npm:@protobufjs/base64": {
+      "type": "npm",
+      "name": "npm:@protobufjs/base64",
+      "data": {
+        "version": "1.1.2",
+        "packageName": "@protobufjs/base64",
+        "hash": "sha512-AZkcAA5vnN/v4PDqKyMR5lx7hZttPDgClv83E//FMNhR2TMcLUhfRUBHCmSl0oi9zMgDDqRUJkSxO3wm85+XLg=="
+      }
+    },
+    "npm:@protobufjs/codegen": {
+      "type": "npm",
+      "name": "npm:@protobufjs/codegen",
+      "data": {
+        "version": "2.0.5",
+        "packageName": "@protobufjs/codegen",
+        "hash": "sha512-zgXFLzW3Ap33e6d0Wlj4MGIm6Ce8O89n/apUaGNB/jx+hw+ruWEp7EwGUshdLKVRCxZW12fp9r40E1mQrf/34g=="
+      }
+    },
+    "npm:@protobufjs/eventemitter": {
+      "type": "npm",
+      "name": "npm:@protobufjs/eventemitter",
+      "data": {
+        "version": "1.1.1",
+        "packageName": "@protobufjs/eventemitter",
+        "hash": "sha512-vW1GmwMZNnL+gMRaovlh9yZX74kc+TTU3FObkkurpMaRtBfLP3ldjS9KQWlwZgraRE0+dheEEoAxdzcJQ8eXZg=="
+      }
+    },
+    "npm:@protobufjs/fetch": {
+      "type": "npm",
+      "name": "npm:@protobufjs/fetch",
+      "data": {
+        "version": "1.1.1",
+        "packageName": "@protobufjs/fetch",
+        "hash": "sha512-GpptLrs57adMSuHi3VNj0mAF8dwh36LMaYF6XyJ6JMWlVsc+t42tm1HSEDmOs3A8fC9yyeisgLhsTVQokOZ0zw=="
+      }
+    },
+    "npm:@protobufjs/float": {
+      "type": "npm",
+      "name": "npm:@protobufjs/float",
+      "data": {
+        "version": "1.0.2",
+        "packageName": "@protobufjs/float",
+        "hash": "sha512-Ddb+kVXlXst9d+R9PfTIxh1EdNkgoRe5tOX6t01f1lYWOvJnSPDBlG241QLzcyPdoNTsblLUdujGSE4RzrTZGQ=="
+      }
+    },
+    "npm:@protobufjs/inquire": {
+      "type": "npm",
+      "name": "npm:@protobufjs/inquire",
+      "data": {
+        "version": "1.1.2",
+        "packageName": "@protobufjs/inquire",
+        "hash": "sha512-pa0vFRuws4wkvaXKK1uXZMAwAX4/t8ANaJo45iw/oQHNQ9q5xUzwgFmVJGXiga2BeN+zpX7Vf9vmsiIa2J+MUw=="
+      }
+    },
+    "npm:@protobufjs/path": {
+      "type": "npm",
+      "name": "npm:@protobufjs/path",
+      "data": {
+        "version": "1.1.2",
+        "packageName": "@protobufjs/path",
+        "hash": "sha512-6JOcJ5Tm08dOHAbdR3GrvP+yUUfkjG5ePsHYczMFLq3ZmMkAD98cDgcT2iA1lJ9NVwFd4tH/iSSoe44YWkltEA=="
+      }
+    },
+    "npm:@protobufjs/pool": {
+      "type": "npm",
+      "name": "npm:@protobufjs/pool",
+      "data": {
+        "version": "1.1.0",
+        "packageName": "@protobufjs/pool",
+        "hash": "sha512-0kELaGSIDBKvcgS4zkjz1PeddatrjYcmMWOlAuAPwAeccUrPHdUqo/J6LiymHHEiJT5NrF1UVwxY14f+fy4WQw=="
+      }
+    },
+    "npm:@protobufjs/utf8": {
+      "type": "npm",
+      "name": "npm:@protobufjs/utf8",
+      "data": {
+        "version": "1.1.2",
+        "packageName": "@protobufjs/utf8",
+        "hash": "sha512-b1UQwcEZ4yCnMCD8DAL1VlbvBJE9/IX4FTIp7BG1xYpf29SLazLSrqUkj4w7Y5y7cCVP6E5tcqqcI0xemPkHug=="
+      }
+    },
     "npm:@radix-ui/primitive": {
       "type": "npm",
       "name": "npm:@radix-ui/primitive",
@@ -3249,6 +3591,15 @@
         "hash": "sha512-8PvcXf70gTDZBgt9ptxJ8elBeBjcLOAcOtoO/mPJjtji1+CdGbHgm77om1GrsPxsiE+uXIpNSK64UYaIwQXd4Q=="
       }
     },
+    "npm:@types/bcryptjs": {
+      "type": "npm",
+      "name": "npm:@types/bcryptjs",
+      "data": {
+        "version": "3.0.0",
+        "packageName": "@types/bcryptjs",
+        "hash": "sha512-WRZOuCuaz8UcZZE4R5HXTco2goQSI2XxjGY3hbM/xDvwmqFWd4ivooImsMx65OKM6CtNKbnZ5YL+YwAwK7c1dg=="
+      }
+    },
     "npm:@types/body-parser": {
       "type": "npm",
       "name": "npm:@types/body-parser",
@@ -3510,6 +3861,15 @@
         "hash": "sha512-+K1NIO8I+F9/wNulfVvu23QYd0Pe9/OCqRrim4NoYIf1VoEDL90Ve4ClzpyqBLc7NpGGWRvYNCKZ1BE/Jpf8dQ=="
       }
     },
+    "npm:@types/long": {
+      "type": "npm",
+      "name": "npm:@types/long",
+      "data": {
+        "version": "4.0.2",
+        "packageName": "@types/long",
+        "hash": "sha512-MqTGEo5bj5t157U6fA/BiDynNkn0YknVdh48CMPkTSpFTVmvao5UQmm7uEF6xBEo7qIMAlY/JSleYaE6VOdpaA=="
+      }
+    },
     "npm:@types/mime": {
       "type": "npm",
       "name": "npm:@types/mime",
@@ -3634,6 +3994,15 @@
         "version": "2.0.3",
         "packageName": "@types/stack-utils",
         "hash": "sha512-9aEbYZ3TbYMznPdcdr3SmIrLXwC/AKZXQeCf9Pgao5CKb8CyHuEX5jzWPTkvregvhRJHcpRO6BFoGW9ycaOkYw=="
+      }
+    },
+    "npm:@types/validator": {
+      "type": "npm",
+      "name": "npm:@types/validator",
+      "data": {
+        "version": "13.15.10",
+        "packageName": "@types/validator",
+        "hash": "sha512-T8L6i7wCuyoK8A/ZeLYt1+q0ty3Zb9+qbSSvrIVitzT3YjZqkTZ40IbRsPanlB4h1QB3JVL1SYCdR6ngtFYcuA=="
       }
     },
     "npm:@types/ws": {
@@ -4248,6 +4617,24 @@
         "hash": "sha512-kPSSXE6De1XOR820C90RIo2ogvZG+c3KiHzqUoO/F34Y2shGzesfqv7o57xrxovZJH/MetF5UjroJ/R/3isoiw=="
       }
     },
+    "npm:@whatwg-node/promise-helpers@1.3.2": {
+      "type": "npm",
+      "name": "npm:@whatwg-node/promise-helpers@1.3.2",
+      "data": {
+        "version": "1.3.2",
+        "packageName": "@whatwg-node/promise-helpers",
+        "hash": "sha512-Nst5JdK47VIl9UcGwtv2Rcgyn5lWtZ0/mhRQ4G8NN2isxpq2TO30iqHzmwoJycjWuyUfg3GFXqP/gFHXeV57IA=="
+      }
+    },
+    "npm:@whatwg-node/promise-helpers@2.0.0": {
+      "type": "npm",
+      "name": "npm:@whatwg-node/promise-helpers@2.0.0",
+      "data": {
+        "version": "2.0.0",
+        "packageName": "@whatwg-node/promise-helpers",
+        "hash": "sha512-/i9CS0Z96o+cPwaYoAyVxAThDiUX1wV3tDmNWPJbn+vtdR+JftuCDg1NGCXBrzIYVDGkJ8uT6ctwmrBOUzOpKQ=="
+      }
+    },
     "npm:@xtuc/ieee754": {
       "type": "npm",
       "name": "npm:@xtuc/ieee754",
@@ -4536,6 +4923,15 @@
         "hash": "sha512-kFL68AG6ajd8fg248zwM9GQrUWEp79gsmjum34OEXjs4yHuUMZfYKwOLW9GMmB4oNvVrj+EAGxsP7ye2UR9UlA=="
       }
     },
+    "npm:async-retry": {
+      "type": "npm",
+      "name": "npm:async-retry",
+      "data": {
+        "version": "1.3.3",
+        "packageName": "async-retry",
+        "hash": "sha512-wfr/jstw9xNi/0teMHrRW7dsz3Lt5ARhYNZ2ewpadnhaIp5mbALhOAP+EAdsC7t4Z6wqsDVv9+W6gm1Dk9mEyw=="
+      }
+    },
     "npm:async": {
       "type": "npm",
       "name": "npm:async",
@@ -4561,6 +4957,15 @@
         "version": "10.6.1",
         "packageName": "autoprefixer",
         "hash": "sha512-cL1Qz6ADZhcEbny/8HPfe99J6HhNoYtpX2LFLIbhgGE7Q1hlQVkYFdetDN7Id3KiQxhDrHwzlHr/YQCnZ8+xSA=="
+      }
+    },
+    "npm:available-typed-arrays": {
+      "type": "npm",
+      "name": "npm:available-typed-arrays",
+      "data": {
+        "version": "1.0.7",
+        "packageName": "available-typed-arrays",
+        "hash": "sha512-wvUjBtSGN7+7SjNpq/9M2Tg350UZD3q62IFZLbRAR1bSMlCo1ZaeW+BJ+D090e4hIIZLBcTDWe4Mh4jvUDajzQ=="
       }
     },
     "npm:aws-ssl-profiles": {
@@ -4768,6 +5173,15 @@
         "version": "0.6.1",
         "packageName": "batch",
         "hash": "sha512-x+VAiMRL6UPkx+kudNvxTl6hB2XNNCG2r+7wixVfIYwu/2HKRXimwQyaumLjMveWvT2Hkd/cAJw+QBMfJ/EKVw=="
+      }
+    },
+    "npm:bcryptjs": {
+      "type": "npm",
+      "name": "npm:bcryptjs",
+      "data": {
+        "version": "3.0.3",
+        "packageName": "bcryptjs",
+        "hash": "sha512-GlF5wPWnSa/X5LKM1o0wz0suXIINz1iHRLvTS+sLyi7XPbe5ycmYI3DlZqVGZZtDgl4DmasFg7gOB3JYbphV5g=="
       }
     },
     "npm:better-result": {
@@ -4986,6 +5400,15 @@
         "hash": "sha512-Sp1ablJ0ivDkSzjcaJdxEunN5/XvksFJ2sMBFfq6x0ryhQV/2b/KwFe21cMpmHtPOSij8K99/wSfoEuTObmuMQ=="
       }
     },
+    "npm:call-bind": {
+      "type": "npm",
+      "name": "npm:call-bind",
+      "data": {
+        "version": "1.0.9",
+        "packageName": "call-bind",
+        "hash": "sha512-a/hy+pNsFUTR+Iz8TCJvXudKVLAnz/DyeSUo10I5yvFDQJBFU2s9uqQpoSrJlroHUKoKqzg+epxyP9lqFdzfBQ=="
+      }
+    },
     "npm:call-bound": {
       "type": "npm",
       "name": "npm:call-bound",
@@ -5119,6 +5542,24 @@
         "version": "2.2.1",
         "packageName": "cjs-module-lexer",
         "hash": "sha512-Ca8swihM+/4yKecYHY52kgJd300hi2lADU/a1RxNTRe+RJ9jvqQlESpbz9DnG9mowez8qwXHB8qYdIUw9e+F5Q=="
+      }
+    },
+    "npm:class-transformer": {
+      "type": "npm",
+      "name": "npm:class-transformer",
+      "data": {
+        "version": "0.5.1",
+        "packageName": "class-transformer",
+        "hash": "sha512-SQa1Ws6hUbfC98vKGxZH3KFY0Y1lm5Zm0SY8XX9zbK7FJCyVEac3ATW0RIpwzW+oOfmHE5PMPufDG9hCfoEOMw=="
+      }
+    },
+    "npm:class-validator": {
+      "type": "npm",
+      "name": "npm:class-validator",
+      "data": {
+        "version": "0.15.1",
+        "packageName": "class-validator",
+        "hash": "sha512-LqoS80HBBSCVhz/3KloUly0ovokxpdOLR++Al3J3+dHXWt9sTKlKd4eYtoxhxyUjoe5+UcIM+5k9MIxyBWnRTw=="
       }
     },
     "npm:classnames": {
@@ -5508,6 +5949,15 @@
         "hash": "sha512-gtTZxTDau1wL7Y7zifc2dd8jHSK/k6BTx/2Xp/BpdlAdnlYWFVt7qhJqgwi7637yRwRQ3qL4ZidbB4I8tA5VOg=="
       }
     },
+    "npm:cross-inspect": {
+      "type": "npm",
+      "name": "npm:cross-inspect",
+      "data": {
+        "version": "1.0.1",
+        "packageName": "cross-inspect",
+        "hash": "sha512-Pcw1JTvZLSJH83iiGWt6fRcT+BjZlCDRVwYLbUcHzv/CRpB7r0MlSrGbIyQvVSNyGnbt7G4AXuyCiDR3POvZ1A=="
+      }
+    },
     "npm:cross-spawn": {
       "type": "npm",
       "name": "npm:cross-spawn",
@@ -5857,6 +6307,15 @@
         "version": "1.0.4",
         "packageName": "defaults",
         "hash": "sha512-eFuaLoy/Rxalv2kr+lqMlUnrDWV+3j4pljOIJgLIhI058IQfWJ7vXhyEIHu+HtC738klGALYxOKDO0bQP3tg8A=="
+      }
+    },
+    "npm:define-data-property": {
+      "type": "npm",
+      "name": "npm:define-data-property",
+      "data": {
+        "version": "1.1.4",
+        "packageName": "define-data-property",
+        "hash": "sha512-rBMvIzlpA8v6E+SJZoo++HAYqsLrkg7MSfIinMPFhmkorw7X+dOXVJQs+QT69zGkzMyfDnIMN2Wid1+NbL3T+A=="
       }
     },
     "npm:define-lazy-prop": {
@@ -6289,6 +6748,15 @@
         "version": "2.1.0",
         "packageName": "es-set-tostringtag",
         "hash": "sha512-j6vWzfrGVfyXxge+O0x5sh6cvxAog0a/4Rdd2K36zCMV5eJ+/+tOAngRO8cODMNWbVRdVlmGZQL2YS3yR8bIUA=="
+      }
+    },
+    "npm:es-toolkit": {
+      "type": "npm",
+      "name": "npm:es-toolkit",
+      "data": {
+        "version": "1.52.0",
+        "packageName": "es-toolkit",
+        "hash": "sha512-XTNEJQh1tY1ZJVcf6ayP/2n4ZPyaHlW2FWs7xvw5ddPuhUVjLD3olQVQS7kf58JbAB48iL0uL/jerTrjtV3lDA=="
       }
     },
     "npm:esbuild": {
@@ -6822,6 +7290,15 @@
         "hash": "sha512-FNvFGzoMLWmE6Yj9spb/zjd7yiNCHiAW9/Tg9CXrQ8wuu32HtlJOwWO11OJafl5FfY3DxTdQ0vj42zU1kvv5jg=="
       }
     },
+    "npm:for-each": {
+      "type": "npm",
+      "name": "npm:for-each",
+      "data": {
+        "version": "0.3.5",
+        "packageName": "for-each",
+        "hash": "sha512-dKx12eRCVIzqCxFGplyFKJMPvLEWgmNtUrpTiJIR5u97zEhRG8ySrtboPHZXx7daLxQVrl643cTzbab2tkQjxg=="
+      }
+    },
     "npm:foreground-child": {
       "type": "npm",
       "name": "npm:foreground-child",
@@ -7110,6 +7587,33 @@
         "hash": "sha512-5ykVn/EXM1hF0XCaWh05VbYvEiOL2lY1kBxZtaYsyvjp7cmWOU1XsAdfQBwClraEofXDT197lFbXOEVMHpvQOg=="
       }
     },
+    "npm:graphql-tag": {
+      "type": "npm",
+      "name": "npm:graphql-tag",
+      "data": {
+        "version": "2.12.7",
+        "packageName": "graphql-tag",
+        "hash": "sha512-xnE/NFzy+0eIesvAsREJZ284zTl/wYuBAvpsFSDhRGRdRHdnE90M21Q3xAWyYInb0J756c6x0pIQ62+vtvOs1Q=="
+      }
+    },
+    "npm:graphql-ws": {
+      "type": "npm",
+      "name": "npm:graphql-ws",
+      "data": {
+        "version": "6.3.0",
+        "packageName": "graphql-ws",
+        "hash": "sha512-qBAXPtFjWHF3QypDyNcBp8Rycd+rmofxUSJsu3bGI9QMMq7pImKBSLSg9hZ2ojIMbJ54T/LPjKBIeOUoJbNBnQ=="
+      }
+    },
+    "npm:graphql": {
+      "type": "npm",
+      "name": "npm:graphql",
+      "data": {
+        "version": "17.0.2",
+        "packageName": "graphql",
+        "hash": "sha512-FRWbddMxfkjiB7z+aQDWIR+E34xo9I8c9mtK2RPv8PmMzKRvrdsreHL/Ui/TmwHJfhHChEtsFPyMHKI+xuarQQ=="
+      }
+    },
     "npm:handle-thing": {
       "type": "npm",
       "name": "npm:handle-thing",
@@ -7135,6 +7639,15 @@
         "version": "4.0.0",
         "packageName": "has-flag",
         "hash": "sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ=="
+      }
+    },
+    "npm:has-property-descriptors": {
+      "type": "npm",
+      "name": "npm:has-property-descriptors",
+      "data": {
+        "version": "1.0.2",
+        "packageName": "has-property-descriptors",
+        "hash": "sha512-55JNKuIW+vq4Ke1BjOTjM2YctQIvCT7GFzHwmfZPGo5wnrgkid0YQtnAleFSqumZm4az3n2BS+erby5ipJdgrg=="
       }
     },
     "npm:has-symbols": {
@@ -7470,6 +7983,15 @@
         "hash": "sha512-ZMERYes6pDydyuGidse7OsHxtbI7WVeUEozgR/g7rd0xUimYNlvZRE/K2MgZTjWy725IfelLeVcEM97mmtRGXw=="
       }
     },
+    "npm:is-callable": {
+      "type": "npm",
+      "name": "npm:is-callable",
+      "data": {
+        "version": "1.2.7",
+        "packageName": "is-callable",
+        "hash": "sha512-1BC0BVFhS/p0qtw6enp8e+8OD0UrK0oFLztSjNzhcKA3WDuJxxAPXzPuPtKkjEY9UUoEWlX/8fgKeu2S8i9JTA=="
+      }
+    },
     "npm:is-core-module": {
       "type": "npm",
       "name": "npm:is-core-module",
@@ -7596,6 +8118,15 @@
         "hash": "sha512-Ks/IoX00TtClbGQr4TWXemAnktAQvYB7HzcCxDGqEZU6oCmb2INHuOoKxbtR+HFkmYWBKv/dOZtGRiAjDhj92g=="
       }
     },
+    "npm:is-typed-array": {
+      "type": "npm",
+      "name": "npm:is-typed-array",
+      "data": {
+        "version": "1.1.15",
+        "packageName": "is-typed-array",
+        "hash": "sha512-p3EcsicXjit7SaskXHs1hA91QxgTw46Fv6EFKKGS5DRFLD8yKnohjF3hxoju94b/OcMZoQukzpPpBE9uLVKzgQ=="
+      }
+    },
     "npm:is-unicode-supported": {
       "type": "npm",
       "name": "npm:is-unicode-supported",
@@ -7659,6 +8190,15 @@
         "hash": "sha512-VLghIWNM6ELQzo7zwmcg0NmTVyWKYjvIeM83yjp0wRDTmUnrM678fQbcKBo6n2CJEF0szoG//ytg+TKla89ALQ=="
       }
     },
+    "npm:isarray@2.0.5": {
+      "type": "npm",
+      "name": "npm:isarray@2.0.5",
+      "data": {
+        "version": "2.0.5",
+        "packageName": "isarray",
+        "hash": "sha512-xHjhDr3cNBK0BzdUJSPXZntQUx/mwMS5Rw4A7lPJ90XGAO6ISP/ePDNuo0vhqOZU+UD5JoodwCAAoZQd3FeAKw=="
+      }
+    },
     "npm:isexe": {
       "type": "npm",
       "name": "npm:isexe",
@@ -7720,6 +8260,15 @@
         "version": "3.2.0",
         "packageName": "istanbul-reports",
         "hash": "sha512-HGYWWS/ehqTV3xN10i23tkPkpH46MLCIMFNCaaKNavAXTF1RkqxawEPtnjnGZ6XKSInBKkiOA5BKS+aZiY3AvA=="
+      }
+    },
+    "npm:iterall": {
+      "type": "npm",
+      "name": "npm:iterall",
+      "data": {
+        "version": "1.3.0",
+        "packageName": "iterall",
+        "hash": "sha512-QZ9qOMdF+QLHxy1QIpUHUU1D5pS2CG2P69LF6L6CPjPYA/XMOmKV3PZpawHoAjHNyB0swdVTRxdYT4tbBbxqwg=="
       }
     },
     "npm:iterare": {
@@ -8136,6 +8685,15 @@
         "hash": "sha512-+bT2uH4E5LGE7h/n3evcS/sQlJXCpIp6ym8OWJ5eV6+67Dsql/LaaT7qJBAt2rzfoa/5QBGBhxDix1dMt2kQKQ=="
       }
     },
+    "npm:libphonenumber-js": {
+      "type": "npm",
+      "name": "npm:libphonenumber-js",
+      "data": {
+        "version": "1.13.14",
+        "packageName": "libphonenumber-js",
+        "hash": "sha512-llihgCcx0BFLksecLP+x1J+6JDE1GsXS1RN/LoPF6qcwpeQcnjj0lcvZxY8AzbEpYwyZWPZW/nDuqkqzm3amiw=="
+      }
+    },
     "npm:license-webpack-plugin": {
       "type": "npm",
       "name": "npm:license-webpack-plugin",
@@ -8352,6 +8910,24 @@
         "hash": "sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ=="
       }
     },
+    "npm:lodash.omit": {
+      "type": "npm",
+      "name": "npm:lodash.omit",
+      "data": {
+        "version": "4.18.0",
+        "packageName": "lodash.omit",
+        "hash": "sha512-hZXIupXdHtocTnvIJ2aCd2vxKYtxex6gbiGuPvgBRnFQO9yu3AtmDAbVuCXcSsQx3INo/1g71OktlFFA/ES8Xg=="
+      }
+    },
+    "npm:lodash.sortby": {
+      "type": "npm",
+      "name": "npm:lodash.sortby",
+      "data": {
+        "version": "4.7.0",
+        "packageName": "lodash.sortby",
+        "hash": "sha512-HDWXG8isMntAyRF5vZ7xKuEvOhT4AhlRt/3czTSjvGUxjYCBVRQY48ViDHyfYz9VIoBkW4TMGQNapx+l3RUwdA=="
+      }
+    },
     "npm:lodash.uniq": {
       "type": "npm",
       "name": "npm:lodash.uniq",
@@ -8379,9 +8955,27 @@
         "hash": "sha512-8XPvpAA8uyhfteu8pIvQxpJZ7SYYdpUivZpGy6sFsBuKRY/7rQGavedeB8aK+Zkyq6upMFVL/9AW6vOYzfRyLg=="
       }
     },
-    "npm:long": {
+    "npm:loglevel": {
       "type": "npm",
-      "name": "npm:long",
+      "name": "npm:loglevel",
+      "data": {
+        "version": "1.9.2",
+        "packageName": "loglevel",
+        "hash": "sha512-HgMmCqIJSAKqo68l0rS2AanEWfkxaZ5wNiEFb5ggm08lDs9Xl2KxBlX3PTcaD2chBM1gXAYf491/M2Rv8Jwayg=="
+      }
+    },
+    "npm:long@4.0.0": {
+      "type": "npm",
+      "name": "npm:long@4.0.0",
+      "data": {
+        "version": "4.0.0",
+        "packageName": "long",
+        "hash": "sha512-XsP+KhQif4bjX1kbuSiySJFNAehNxgLb6hPRGJ9QsUr8ajHkuXGdrHmFUTUUXhDwVX2R5bY4JNZEwbUiMhV+MA=="
+      }
+    },
+    "npm:long@5.3.2": {
+      "type": "npm",
+      "name": "npm:long@5.3.2",
       "data": {
         "version": "5.3.2",
         "packageName": "long",
@@ -9448,6 +10042,15 @@
         "version": "1.0.38",
         "packageName": "portfinder",
         "hash": "sha512-rEwq/ZHlJIKw++XtLAO8PPuOQA/zaPJOZJ37BVuN97nLpMJeuDVLVGRwbFoBgLudgdTMP2hdRJP++H+8QOA3vg=="
+      }
+    },
+    "npm:possible-typed-array-names": {
+      "type": "npm",
+      "name": "npm:possible-typed-array-names",
+      "data": {
+        "version": "1.1.0",
+        "packageName": "possible-typed-array-names",
+        "hash": "sha512-/+5VFTchJDoVj3bhoqi6UeymcD00DAwb1nJwamzPvHEszJ4FpF6SNNbUbOS8yI56qHzdV8eK0qEfOSiodkTdxg=="
       }
     },
     "npm:postcss-calc": {
@@ -10746,6 +11349,15 @@
         "hash": "sha512-xRXBn0pPqQTVQiC8wyQrKs2MOlX24zQ0POGaj0kultvoOCstBQM5yvOhAVSUwOMjQtTvsPWoNCHfPGwaaQJhTw=="
       }
     },
+    "npm:set-function-length": {
+      "type": "npm",
+      "name": "npm:set-function-length",
+      "data": {
+        "version": "1.2.2",
+        "packageName": "set-function-length",
+        "hash": "sha512-pgRc4hJ4/sNjWCSS9AmnS40x3bNMDTknHgL5UaMBTMyJnU90EgWh1Rz+MC9eFu4BuN/UwZjKQuY/1v3rM7HMfg=="
+      }
+    },
     "npm:setprototypeof": {
       "type": "npm",
       "name": "npm:setprototypeof",
@@ -10753,6 +11365,15 @@
         "version": "1.2.0",
         "packageName": "setprototypeof",
         "hash": "sha512-E5LDX7Wrp85Kil5bhZv46j8jOeboKq5JMmYM3gVGdGH8xFpPWXUMsNrlODCrkoxMEeNi/XZIwuRvY4XNwYMJpw=="
+      }
+    },
+    "npm:sha.js": {
+      "type": "npm",
+      "name": "npm:sha.js",
+      "data": {
+        "version": "2.4.12",
+        "packageName": "sha.js",
+        "hash": "sha512-8LzC5+bvI45BjpfXU8V5fdU2mfeKiQe1D1gIMn7XUlF3OTUrpdJpPPH4EMAnF0DsHHdSZqCdSss5qCmJKuiO3w=="
       }
     },
     "npm:shallow-clone": {
@@ -11403,6 +12024,15 @@
         "hash": "sha512-e0votIpp4Uo2AJYSzVHV6xCcawuiez3DzqDAbrTc3YxBkplN6e+dM13ZeIcZnDg/QpSuU2zfZ3rzwY8ukEnaXw=="
       }
     },
+    "npm:to-buffer": {
+      "type": "npm",
+      "name": "npm:to-buffer",
+      "data": {
+        "version": "1.2.2",
+        "packageName": "to-buffer",
+        "hash": "sha512-db0E3UJjcFhpDhAF4tLo03oli3pwl3dbnzXOUIlRKrp+ldk/VUxzpWYZENsw2SZiuBjHAk7DfB0VU7NKdpb6sw=="
+      }
+    },
     "npm:to-regex-range": {
       "type": "npm",
       "name": "npm:to-regex-range",
@@ -11545,6 +12175,15 @@
         "version": "2.1.0",
         "packageName": "type-is",
         "hash": "sha512-faYHw0anBbc/kWF3zFTEnxSFOAGUX9GFbOBthvDdLsIlEoWOFOtS0zgCiQYwIskL9iGXZL3kAXD8OoZ4GmMATA=="
+      }
+    },
+    "npm:typed-array-buffer": {
+      "type": "npm",
+      "name": "npm:typed-array-buffer",
+      "data": {
+        "version": "1.0.3",
+        "packageName": "typed-array-buffer",
+        "hash": "sha512-nAYYwfY3qnzX30IkA6AQZjVbtK6duGontcQm1WSG1MD94YLqK0515GNApXkoxKOWMusVssAHWLh9SeaoefYFGw=="
       }
     },
     "npm:typed-assert": {
@@ -11745,6 +12384,15 @@
         "hash": "sha512-gjdCvJ6d3RyHAneqxMYMW9QMCwYMb3jpOO0IyHZV1bnRHFBHrX3VkIILt5XYR0WhwHiH7Mty8ovuPZ/O3gamrg=="
       }
     },
+    "npm:validator": {
+      "type": "npm",
+      "name": "npm:validator",
+      "data": {
+        "version": "13.15.35",
+        "packageName": "validator",
+        "hash": "sha512-TQ5pAGhd5whStmqWvYF4OjQROlmv9SMFVt37qoCBdqRffuuklWYQlCNnEs2ZaIBD1kZRNnikiZOS1eqgkar0iw=="
+      }
+    },
     "npm:varint": {
       "type": "npm",
       "name": "npm:varint",
@@ -11905,6 +12553,24 @@
         "version": "2.0.0",
         "packageName": "whatwg-encoding",
         "hash": "sha512-p41ogyeMUrw3jWclHWTQg1k05DSVXPLcVxRTYsXUk+ZooOCZLcoYgPZ/HL/D/N+uQPOtcp1me1WhBEaX02mhWg=="
+      }
+    },
+    "npm:whatwg-mimetype": {
+      "type": "npm",
+      "name": "npm:whatwg-mimetype",
+      "data": {
+        "version": "4.0.0",
+        "packageName": "whatwg-mimetype",
+        "hash": "sha512-QaKxh0eNIi2mE9p2vEdzfagOKHCcj1pJ56EEHGQOVxp8r9/iszLUUV7v89x9O1p/T+NlTM5W7jW6+cz4Fq1YVg=="
+      }
+    },
+    "npm:which-typed-array": {
+      "type": "npm",
+      "name": "npm:which-typed-array",
+      "data": {
+        "version": "1.1.24",
+        "packageName": "which-typed-array",
+        "hash": "sha512-wk4Mf4pR5mRP7eYuuTBCIQ9d0ud2Fv2jRLQpfgnRjbOxAFHmjKFValgTpitVKzJJS8ajnYQV2Du1SZ8j6b/EUQ=="
       }
     },
     "npm:which": {
@@ -12112,6 +12778,60 @@
     ],
     "@angular-devkit/schematics@19.2.24(chokidar@4.0.3)": [
       "npm:@angular-devkit/schematics"
+    ],
+    "@apollo/cache-control-types@1.0.3(graphql@17.0.2)": [
+      "npm:@apollo/cache-control-types"
+    ],
+    "@apollo/protobufjs@1.2.8": [
+      "npm:@apollo/protobufjs"
+    ],
+    "@apollo/server-gateway-interface@2.0.0(graphql@17.0.2)": [
+      "npm:@apollo/server-gateway-interface"
+    ],
+    "@apollo/server@5.5.1(graphql@17.0.2)(supports-color@8.1.1)": [
+      "npm:@apollo/server"
+    ],
+    "@apollo/usage-reporting-protobuf@4.1.2": [
+      "npm:@apollo/usage-reporting-protobuf"
+    ],
+    "@apollo/utils.createhash@3.0.1": [
+      "npm:@apollo/utils.createhash"
+    ],
+    "@apollo/utils.dropunuseddefinitions@2.0.1(graphql@17.0.2)": [
+      "npm:@apollo/utils.dropunuseddefinitions"
+    ],
+    "@apollo/utils.fetcher@3.1.0": [
+      "npm:@apollo/utils.fetcher"
+    ],
+    "@apollo/utils.isnodelike@3.0.0": [
+      "npm:@apollo/utils.isnodelike"
+    ],
+    "@apollo/utils.keyvaluecache@4.0.0": [
+      "npm:@apollo/utils.keyvaluecache"
+    ],
+    "@apollo/utils.logger@3.0.0": [
+      "npm:@apollo/utils.logger"
+    ],
+    "@apollo/utils.printwithreducedwhitespace@2.0.1(graphql@17.0.2)": [
+      "npm:@apollo/utils.printwithreducedwhitespace"
+    ],
+    "@apollo/utils.removealiases@2.0.1(graphql@17.0.2)": [
+      "npm:@apollo/utils.removealiases"
+    ],
+    "@apollo/utils.sortast@2.0.1(graphql@17.0.2)": [
+      "npm:@apollo/utils.sortast"
+    ],
+    "@apollo/utils.stripsensitiveliterals@2.0.1(graphql@17.0.2)": [
+      "npm:@apollo/utils.stripsensitiveliterals"
+    ],
+    "@apollo/utils.usagereporting@2.1.0(graphql@17.0.2)": [
+      "npm:@apollo/utils.usagereporting"
+    ],
+    "@apollo/utils.withrequired@3.0.0": [
+      "npm:@apollo/utils.withrequired"
+    ],
+    "@as-integrations/express5@1.1.2(@apollo/server@5.5.1(graphql@17.0.2)(supports-color@8.1.1))(express@5.2.1(supports-color@8.1.1))": [
+      "npm:@as-integrations/express5"
     ],
     "@babel/code-frame@7.29.7": [
       "npm:@babel/code-frame"
@@ -12608,6 +13328,27 @@
     "@eslint/plugin-kit@0.4.1": [
       "npm:@eslint/plugin-kit"
     ],
+    "@graphql-tools/merge@9.2.4(graphql@17.0.2)": [
+      "npm:@graphql-tools/merge@9.2.4"
+    ],
+    "@graphql-tools/merge@9.2.6(graphql@17.0.2)": [
+      "npm:@graphql-tools/merge@9.2.6"
+    ],
+    "@graphql-tools/schema@10.1.1(graphql@17.0.2)": [
+      "npm:@graphql-tools/schema@10.1.1"
+    ],
+    "@graphql-tools/schema@10.1.3(graphql@17.0.2)": [
+      "npm:@graphql-tools/schema@10.1.3"
+    ],
+    "@graphql-tools/utils@12.0.1(graphql@17.0.2)": [
+      "npm:@graphql-tools/utils@12.0.1"
+    ],
+    "@graphql-tools/utils@12.0.3(graphql@17.0.2)": [
+      "npm:@graphql-tools/utils@12.0.3"
+    ],
+    "@graphql-typed-document-node/core@3.2.0(graphql@17.0.2)": [
+      "npm:@graphql-typed-document-node/core"
+    ],
     "@humanfs/core@0.19.2": [
       "npm:@humanfs/core"
     ],
@@ -12857,19 +13598,28 @@
     "@napi-rs/wasm-runtime@1.2.4(@emnapi/core@1.10.0)(@emnapi/runtime@1.10.0)": [
       "npm:@napi-rs/wasm-runtime@1.2.4"
     ],
-    "@nestjs/common@11.2.7(reflect-metadata@0.2.2)(rxjs@7.8.2)(supports-color@8.1.1)": [
+    "@nestjs/apollo@14.0.3(@apollo/server@5.5.1(graphql@17.0.2)(supports-color@8.1.1))(@as-integrations/express5@1.1.2(@apollo/server@5.5.1(graphql@17.0.2)(supports-color@8.1.1))(express@5.2.1(supports-color@8.1.1)))(@nestjs/common@11.2.7(class-transformer@0.5.1)(class-validator@0.15.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)(supports-color@8.1.1))(@nestjs/core@11.2.7)(@nestjs/graphql@14.0.3(@nestjs/common@11.2.7(class-transformer@0.5.1)(class-validator@0.15.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)(supports-color@8.1.1))(@nestjs/core@11.2.7)(class-transformer@0.5.1)(class-validator@0.15.1)(graphql@17.0.2)(reflect-metadata@0.2.2)(typescript@6.0.3))(graphql@17.0.2)": [
+      "npm:@nestjs/apollo"
+    ],
+    "@nestjs/common@11.2.7(class-transformer@0.5.1)(class-validator@0.15.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)(supports-color@8.1.1)": [
       "npm:@nestjs/common"
     ],
-    "@nestjs/core@11.2.7(@nestjs/common@11.2.7(reflect-metadata@0.2.2)(rxjs@7.8.2)(supports-color@8.1.1))(@nestjs/platform-express@11.2.7)(reflect-metadata@0.2.2)(rxjs@7.8.2)": [
+    "@nestjs/core@11.2.7(@nestjs/common@11.2.7(class-transformer@0.5.1)(class-validator@0.15.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)(supports-color@8.1.1))(@nestjs/platform-express@11.2.7)(reflect-metadata@0.2.2)(rxjs@7.8.2)": [
       "npm:@nestjs/core"
     ],
-    "@nestjs/platform-express@11.2.7(@nestjs/common@11.2.7(reflect-metadata@0.2.2)(rxjs@7.8.2)(supports-color@8.1.1))(@nestjs/core@11.2.7)(supports-color@8.1.1)": [
+    "@nestjs/graphql@14.0.3(@nestjs/common@11.2.7(class-transformer@0.5.1)(class-validator@0.15.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)(supports-color@8.1.1))(@nestjs/core@11.2.7)(class-transformer@0.5.1)(class-validator@0.15.1)(graphql@17.0.2)(reflect-metadata@0.2.2)(typescript@6.0.3)": [
+      "npm:@nestjs/graphql"
+    ],
+    "@nestjs/mapped-types@12.0.0(@nestjs/common@11.2.7(class-transformer@0.5.1)(class-validator@0.15.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)(supports-color@8.1.1))(class-transformer@0.5.1)(class-validator@0.15.1)(reflect-metadata@0.2.2)": [
+      "npm:@nestjs/mapped-types"
+    ],
+    "@nestjs/platform-express@11.2.7(@nestjs/common@11.2.7(class-transformer@0.5.1)(class-validator@0.15.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)(supports-color@8.1.1))(@nestjs/core@11.2.7)(supports-color@8.1.1)": [
       "npm:@nestjs/platform-express"
     ],
     "@nestjs/schematics@11.1.0(chokidar@4.0.3)(prettier@3.6.2)(typescript@6.0.3)": [
       "npm:@nestjs/schematics"
     ],
-    "@nestjs/testing@11.2.7(@nestjs/common@11.2.7(reflect-metadata@0.2.2)(rxjs@7.8.2)(supports-color@8.1.1))(@nestjs/core@11.2.7)(@nestjs/platform-express@11.2.7)": [
+    "@nestjs/testing@11.2.7(@nestjs/common@11.2.7(class-transformer@0.5.1)(class-validator@0.15.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)(supports-color@8.1.1))(@nestjs/core@11.2.7)(@nestjs/platform-express@11.2.7)": [
       "npm:@nestjs/testing"
     ],
     "@noble/hashes@1.8.0": [
@@ -12893,7 +13643,7 @@
     "@nx/js@23.2.1(@babel/traverse@7.29.8(supports-color@8.1.1))(nx@23.2.1)(supports-color@8.1.1)": [
       "npm:@nx/js"
     ],
-    "@nx/nest@23.2.1(@babel/traverse@7.29.8(supports-color@8.1.1))(@nestjs/common@11.2.7(reflect-metadata@0.2.2)(rxjs@7.8.2)(supports-color@8.1.1))(@nestjs/core@11.2.7)(@nx/jest@23.2.1(@babel/traverse@7.29.8(supports-color@8.1.1))(@types/node@22.20.5)(babel-plugin-macros@3.1.0)(nx@23.2.1)(supports-color@8.1.1)(typescript@6.0.3))(@types/node@22.20.5)(@zkochan/js-yaml@0.0.7)(babel-plugin-macros@3.1.0)(chokidar@4.0.3)(eslint@9.39.5(jiti@2.7.0)(supports-color@8.1.1))(express@5.2.1(supports-color@8.1.1))(nx@23.2.1)(prettier@3.6.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)(supports-color@8.1.1)(typescript@6.0.3)": [
+    "@nx/nest@23.2.1(@babel/traverse@7.29.8(supports-color@8.1.1))(@nestjs/common@11.2.7(class-transformer@0.5.1)(class-validator@0.15.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)(supports-color@8.1.1))(@nestjs/core@11.2.7)(@nx/jest@23.2.1(@babel/traverse@7.29.8(supports-color@8.1.1))(@types/node@22.20.5)(babel-plugin-macros@3.1.0)(nx@23.2.1)(supports-color@8.1.1)(typescript@6.0.3))(@types/node@22.20.5)(@zkochan/js-yaml@0.0.7)(babel-plugin-macros@3.1.0)(chokidar@4.0.3)(eslint@9.39.5(jiti@2.7.0)(supports-color@8.1.1))(express@5.2.1(supports-color@8.1.1))(nx@23.2.1)(prettier@3.6.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)(supports-color@8.1.1)(typescript@6.0.3)": [
       "npm:@nx/nest"
     ],
     "@nx/node@23.2.1(@babel/traverse@7.29.8(supports-color@8.1.1))(@types/node@22.20.5)(@zkochan/js-yaml@0.0.7)(babel-plugin-macros@3.1.0)(eslint@9.39.5(jiti@2.7.0)(supports-color@8.1.1))(express@5.2.1(supports-color@8.1.1))(nx@23.2.1)(supports-color@8.1.1)(typescript@6.0.3)": [
@@ -13079,6 +13829,36 @@
     "@prisma/studio-core@0.33.0(@types/react@19.3.0)(react-dom@19.3.0(react@19.3.0))(react@19.3.0)": [
       "npm:@prisma/studio-core"
     ],
+    "@protobufjs/aspromise@1.1.2": [
+      "npm:@protobufjs/aspromise"
+    ],
+    "@protobufjs/base64@1.1.2": [
+      "npm:@protobufjs/base64"
+    ],
+    "@protobufjs/codegen@2.0.5": [
+      "npm:@protobufjs/codegen"
+    ],
+    "@protobufjs/eventemitter@1.1.1": [
+      "npm:@protobufjs/eventemitter"
+    ],
+    "@protobufjs/fetch@1.1.1": [
+      "npm:@protobufjs/fetch"
+    ],
+    "@protobufjs/float@1.0.2": [
+      "npm:@protobufjs/float"
+    ],
+    "@protobufjs/inquire@1.1.2": [
+      "npm:@protobufjs/inquire"
+    ],
+    "@protobufjs/path@1.1.2": [
+      "npm:@protobufjs/path"
+    ],
+    "@protobufjs/pool@1.1.0": [
+      "npm:@protobufjs/pool"
+    ],
+    "@protobufjs/utf8@1.1.2": [
+      "npm:@protobufjs/utf8"
+    ],
     "@radix-ui/primitive@1.1.3": [
       "npm:@radix-ui/primitive"
     ],
@@ -13190,6 +13970,9 @@
     "@types/babel__traverse@7.28.0": [
       "npm:@types/babel__traverse"
     ],
+    "@types/bcryptjs@3.0.0": [
+      "npm:@types/bcryptjs"
+    ],
     "@types/body-parser@1.19.6": [
       "npm:@types/body-parser"
     ],
@@ -13277,6 +14060,9 @@
     "@types/lodash@4.17.25": [
       "npm:@types/lodash"
     ],
+    "@types/long@4.0.2": [
+      "npm:@types/long"
+    ],
     "@types/mime@1.3.5": [
       "npm:@types/mime"
     ],
@@ -13318,6 +14104,9 @@
     ],
     "@types/stack-utils@2.0.3": [
       "npm:@types/stack-utils"
+    ],
+    "@types/validator@13.15.10": [
+      "npm:@types/validator"
     ],
     "@types/ws@8.18.2": [
       "npm:@types/ws"
@@ -13523,6 +14312,12 @@
     "@webassemblyjs/wast-printer@1.14.1": [
       "npm:@webassemblyjs/wast-printer"
     ],
+    "@whatwg-node/promise-helpers@1.3.2": [
+      "npm:@whatwg-node/promise-helpers@1.3.2"
+    ],
+    "@whatwg-node/promise-helpers@2.0.0": [
+      "npm:@whatwg-node/promise-helpers@2.0.0"
+    ],
     "@xtuc/ieee754@1.2.0": [
       "npm:@xtuc/ieee754"
     ],
@@ -13622,6 +14417,9 @@
     "ast-v8-to-istanbul@1.0.7": [
       "npm:ast-v8-to-istanbul"
     ],
+    "async-retry@1.3.3": [
+      "npm:async-retry"
+    ],
     "async@3.2.6": [
       "npm:async"
     ],
@@ -13630,6 +14428,9 @@
     ],
     "autoprefixer@10.6.1(postcss@8.5.28)": [
       "npm:autoprefixer"
+    ],
+    "available-typed-arrays@1.0.7": [
+      "npm:available-typed-arrays"
     ],
     "aws-ssl-profiles@1.1.2": [
       "npm:aws-ssl-profiles"
@@ -13699,6 +14500,9 @@
     ],
     "batch@0.6.1": [
       "npm:batch"
+    ],
+    "bcryptjs@3.0.3": [
+      "npm:bcryptjs"
     ],
     "better-result@2.10.0": [
       "npm:better-result"
@@ -13772,6 +14576,9 @@
     "call-bind-apply-helpers@1.0.2": [
       "npm:call-bind-apply-helpers"
     ],
+    "call-bind@1.0.9": [
+      "npm:call-bind"
+    ],
     "call-bound@1.0.4": [
       "npm:call-bound"
     ],
@@ -13816,6 +14623,12 @@
     ],
     "cjs-module-lexer@2.2.1": [
       "npm:cjs-module-lexer"
+    ],
+    "class-transformer@0.5.1": [
+      "npm:class-transformer"
+    ],
+    "class-validator@0.15.1": [
+      "npm:class-validator"
     ],
     "classnames@2.5.1": [
       "npm:classnames"
@@ -13946,6 +14759,9 @@
     "cosmiconfig@9.0.2(typescript@6.0.3)": [
       "npm:cosmiconfig@9.0.2"
     ],
+    "cross-inspect@1.0.1": [
+      "npm:cross-inspect"
+    ],
     "cross-spawn@7.0.6": [
       "npm:cross-spawn"
     ],
@@ -14065,6 +14881,9 @@
     ],
     "defaults@1.0.4": [
       "npm:defaults"
+    ],
+    "define-data-property@1.1.4": [
+      "npm:define-data-property"
     ],
     "define-lazy-prop@3.0.0": [
       "npm:define-lazy-prop"
@@ -14209,6 +15028,9 @@
     ],
     "es-set-tostringtag@2.1.0": [
       "npm:es-set-tostringtag"
+    ],
+    "es-toolkit@1.52.0": [
+      "npm:es-toolkit"
     ],
     "esbuild@0.28.2": [
       "npm:esbuild"
@@ -14390,6 +15212,9 @@
     "follow-redirects@1.16.1(debug@4.4.3(supports-color@8.1.1))": [
       "npm:follow-redirects@1.16.1"
     ],
+    "for-each@0.3.5": [
+      "npm:for-each"
+    ],
     "foreground-child@3.3.1": [
       "npm:foreground-child"
     ],
@@ -14486,6 +15311,15 @@
     "graphmatch@1.1.1": [
       "npm:graphmatch"
     ],
+    "graphql-tag@2.12.7(graphql@17.0.2)": [
+      "npm:graphql-tag"
+    ],
+    "graphql-ws@6.3.0(graphql@17.0.2)(ws@8.22.0)": [
+      "npm:graphql-ws"
+    ],
+    "graphql@17.0.2": [
+      "npm:graphql"
+    ],
     "handle-thing@2.0.1": [
       "npm:handle-thing"
     ],
@@ -14494,6 +15328,9 @@
     ],
     "has-flag@4.0.0": [
       "npm:has-flag"
+    ],
+    "has-property-descriptors@1.0.2": [
+      "npm:has-property-descriptors"
     ],
     "has-symbols@1.1.0": [
       "npm:has-symbols"
@@ -14609,6 +15446,9 @@
     "is-binary-path@2.1.0": [
       "npm:is-binary-path"
     ],
+    "is-callable@1.2.7": [
+      "npm:is-callable"
+    ],
     "is-core-module@2.17.0": [
       "npm:is-core-module"
     ],
@@ -14651,6 +15491,9 @@
     "is-property@1.0.2": [
       "npm:is-property"
     ],
+    "is-typed-array@1.1.15": [
+      "npm:is-typed-array"
+    ],
     "is-unicode-supported@0.1.0": [
       "npm:is-unicode-supported"
     ],
@@ -14672,6 +15515,9 @@
     "isarray@1.0.0": [
       "npm:isarray"
     ],
+    "isarray@2.0.5": [
+      "npm:isarray@2.0.5"
+    ],
     "isexe@2.0.0": [
       "npm:isexe"
     ],
@@ -14692,6 +15538,9 @@
     ],
     "istanbul-reports@3.2.0": [
       "npm:istanbul-reports"
+    ],
+    "iterall@1.3.0": [
+      "npm:iterall"
     ],
     "iterare@1.2.1": [
       "npm:iterare"
@@ -14831,6 +15680,9 @@
     "levn@0.4.1": [
       "npm:levn"
     ],
+    "libphonenumber-js@1.13.14": [
+      "npm:libphonenumber-js"
+    ],
     "license-webpack-plugin@4.0.2(webpack@5.111.1)": [
       "npm:license-webpack-plugin"
     ],
@@ -14903,6 +15755,12 @@
     "lodash.merge@4.6.2": [
       "npm:lodash.merge"
     ],
+    "lodash.omit@4.18.0": [
+      "npm:lodash.omit"
+    ],
+    "lodash.sortby@4.7.0": [
+      "npm:lodash.sortby"
+    ],
     "lodash.uniq@4.5.0": [
       "npm:lodash.uniq"
     ],
@@ -14912,8 +15770,14 @@
     "log-symbols@4.1.0": [
       "npm:log-symbols"
     ],
+    "loglevel@1.9.2": [
+      "npm:loglevel"
+    ],
+    "long@4.0.0": [
+      "npm:long@4.0.0"
+    ],
     "long@5.3.2": [
-      "npm:long"
+      "npm:long@5.3.2"
     ],
     "lru-cache@10.4.3": [
       "npm:lru-cache@10.4.3"
@@ -15268,6 +16132,9 @@
     ],
     "portfinder@1.0.38(supports-color@8.1.1)": [
       "npm:portfinder"
+    ],
+    "possible-typed-array-names@1.1.0": [
+      "npm:possible-typed-array-names"
     ],
     "postcss-calc@10.1.1(postcss@8.5.28)": [
       "npm:postcss-calc"
@@ -15697,8 +16564,14 @@
     "serve-static@2.2.1(supports-color@8.1.1)": [
       "npm:serve-static"
     ],
+    "set-function-length@1.2.2": [
+      "npm:set-function-length"
+    ],
     "setprototypeof@1.2.0": [
       "npm:setprototypeof"
+    ],
+    "sha.js@2.4.12": [
+      "npm:sha.js"
     ],
     "shallow-clone@3.0.1": [
       "npm:shallow-clone"
@@ -15912,6 +16785,9 @@
     "tmp@0.2.7": [
       "npm:tmp"
     ],
+    "to-buffer@1.2.2": [
+      "npm:to-buffer"
+    ],
     "to-regex-range@5.0.1": [
       "npm:to-regex-range"
     ],
@@ -15959,6 +16835,9 @@
     ],
     "type-is@2.1.0": [
       "npm:type-is"
+    ],
+    "typed-array-buffer@1.0.3": [
+      "npm:typed-array-buffer"
     ],
     "typed-assert@1.0.9": [
       "npm:typed-assert"
@@ -16026,6 +16905,9 @@
     "valibot@1.4.2(typescript@6.0.3)": [
       "npm:valibot"
     ],
+    "validator@13.15.35": [
+      "npm:validator"
+    ],
     "varint@6.0.0": [
       "npm:varint"
     ],
@@ -16079,6 +16961,12 @@
     ],
     "whatwg-encoding@2.0.0": [
       "npm:whatwg-encoding"
+    ],
+    "whatwg-mimetype@4.0.0": [
+      "npm:whatwg-mimetype"
+    ],
+    "which-typed-array@1.1.24": [
+      "npm:which-typed-array"
     ],
     "which@2.0.2": [
       "npm:which"

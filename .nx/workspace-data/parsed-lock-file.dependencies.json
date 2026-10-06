@@ -60,6 +60,301 @@
     "type": "static"
   },
   {
+    "source": "npm:@apollo/cache-control-types",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/protobufjs",
+    "target": "npm:@protobufjs/aspromise",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/protobufjs",
+    "target": "npm:@protobufjs/base64",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/protobufjs",
+    "target": "npm:@protobufjs/codegen",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/protobufjs",
+    "target": "npm:@protobufjs/eventemitter",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/protobufjs",
+    "target": "npm:@protobufjs/fetch",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/protobufjs",
+    "target": "npm:@protobufjs/float",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/protobufjs",
+    "target": "npm:@protobufjs/inquire",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/protobufjs",
+    "target": "npm:@protobufjs/path",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/protobufjs",
+    "target": "npm:@protobufjs/pool",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/protobufjs",
+    "target": "npm:@protobufjs/utf8",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/protobufjs",
+    "target": "npm:@types/long",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/protobufjs",
+    "target": "npm:long@4.0.0",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server-gateway-interface",
+    "target": "npm:@apollo/usage-reporting-protobuf",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server-gateway-interface",
+    "target": "npm:@apollo/utils.fetcher",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server-gateway-interface",
+    "target": "npm:@apollo/utils.keyvaluecache",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server-gateway-interface",
+    "target": "npm:@apollo/utils.logger",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server-gateway-interface",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:@apollo/cache-control-types",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:@apollo/server-gateway-interface",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:@apollo/usage-reporting-protobuf",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:@apollo/utils.createhash",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:@apollo/utils.fetcher",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:@apollo/utils.isnodelike",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:@apollo/utils.keyvaluecache",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:@apollo/utils.logger",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:@apollo/utils.usagereporting",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:@apollo/utils.withrequired",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:@graphql-tools/schema@10.1.3",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:async-retry",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:body-parser",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:content-type",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:cors",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:finalhandler",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:loglevel",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:lru-cache@11.5.3",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:negotiator",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/server",
+    "target": "npm:whatwg-mimetype",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/usage-reporting-protobuf",
+    "target": "npm:@apollo/protobufjs",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/utils.createhash",
+    "target": "npm:@apollo/utils.isnodelike",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/utils.createhash",
+    "target": "npm:sha.js",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/utils.dropunuseddefinitions",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/utils.keyvaluecache",
+    "target": "npm:@apollo/utils.logger",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/utils.keyvaluecache",
+    "target": "npm:lru-cache@11.5.3",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/utils.printwithreducedwhitespace",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/utils.removealiases",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/utils.sortast",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/utils.sortast",
+    "target": "npm:lodash.sortby",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/utils.stripsensitiveliterals",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/utils.usagereporting",
+    "target": "npm:@apollo/usage-reporting-protobuf",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/utils.usagereporting",
+    "target": "npm:@apollo/utils.dropunuseddefinitions",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/utils.usagereporting",
+    "target": "npm:@apollo/utils.printwithreducedwhitespace",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/utils.usagereporting",
+    "target": "npm:@apollo/utils.removealiases",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/utils.usagereporting",
+    "target": "npm:@apollo/utils.sortast",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/utils.usagereporting",
+    "target": "npm:@apollo/utils.stripsensitiveliterals",
+    "type": "static"
+  },
+  {
+    "source": "npm:@apollo/utils.usagereporting",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:@as-integrations/express5",
+    "target": "npm:@apollo/server",
+    "type": "static"
+  },
+  {
+    "source": "npm:@as-integrations/express5",
+    "target": "npm:express",
+    "type": "static"
+  },
+  {
     "source": "npm:@babel/code-frame",
     "target": "npm:@babel/helper-validator-identifier",
     "type": "static"
@@ -2155,6 +2450,131 @@
     "type": "static"
   },
   {
+    "source": "npm:@graphql-tools/merge@9.2.4",
+    "target": "npm:@graphql-tools/utils@12.0.1",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/merge@9.2.4",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/merge@9.2.4",
+    "target": "npm:tslib",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/merge@9.2.6",
+    "target": "npm:@graphql-tools/utils@12.0.3",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/merge@9.2.6",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/merge@9.2.6",
+    "target": "npm:tslib",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/schema@10.1.1",
+    "target": "npm:@graphql-tools/merge@9.2.4",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/schema@10.1.1",
+    "target": "npm:@graphql-tools/utils@12.0.1",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/schema@10.1.1",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/schema@10.1.1",
+    "target": "npm:tslib",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/schema@10.1.3",
+    "target": "npm:@graphql-tools/merge@9.2.6",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/schema@10.1.3",
+    "target": "npm:@graphql-tools/utils@12.0.3",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/schema@10.1.3",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/schema@10.1.3",
+    "target": "npm:tslib",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/utils@12.0.1",
+    "target": "npm:@graphql-typed-document-node/core",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/utils@12.0.1",
+    "target": "npm:@whatwg-node/promise-helpers@1.3.2",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/utils@12.0.1",
+    "target": "npm:cross-inspect",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/utils@12.0.1",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/utils@12.0.1",
+    "target": "npm:tslib",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/utils@12.0.3",
+    "target": "npm:@graphql-typed-document-node/core",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/utils@12.0.3",
+    "target": "npm:@whatwg-node/promise-helpers@2.0.0",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/utils@12.0.3",
+    "target": "npm:cross-inspect",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/utils@12.0.3",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-tools/utils@12.0.3",
+    "target": "npm:tslib",
+    "type": "static"
+  },
+  {
+    "source": "npm:@graphql-typed-document-node/core",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
     "source": "npm:@humanfs/core",
     "target": "npm:@humanfs/types",
     "type": "static"
@@ -3135,6 +3555,51 @@
     "type": "static"
   },
   {
+    "source": "npm:@nestjs/apollo",
+    "target": "npm:@apollo/server",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/apollo",
+    "target": "npm:@nestjs/common",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/apollo",
+    "target": "npm:@nestjs/core",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/apollo",
+    "target": "npm:@nestjs/graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/apollo",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/apollo",
+    "target": "npm:iterall",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/apollo",
+    "target": "npm:lodash.omit",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/apollo",
+    "target": "npm:tslib",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/apollo",
+    "target": "npm:@as-integrations/express5",
+    "type": "static"
+  },
+  {
     "source": "npm:@nestjs/common",
     "target": "npm:file-type",
     "type": "static"
@@ -3167,6 +3632,16 @@
   {
     "source": "npm:@nestjs/common",
     "target": "npm:uid",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/common",
+    "target": "npm:class-transformer",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/common",
+    "target": "npm:class-validator",
     "type": "static"
   },
   {
@@ -3212,6 +3687,121 @@
   {
     "source": "npm:@nestjs/core",
     "target": "npm:@nestjs/platform-express",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:@graphql-tools/merge@9.2.4",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:@graphql-tools/schema@10.1.1",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:@graphql-tools/utils@12.0.1",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:@nestjs/common",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:@nestjs/core",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:@nestjs/mapped-types",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:chokidar",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:es-toolkit",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:graphql-tag",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:graphql-ws",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:normalize-path",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:reflect-metadata",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:tinyglobby",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:tslib",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:ws",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:class-transformer",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:class-validator",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/graphql",
+    "target": "npm:typescript",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/mapped-types",
+    "target": "npm:@nestjs/common",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/mapped-types",
+    "target": "npm:reflect-metadata",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/mapped-types",
+    "target": "npm:class-transformer",
+    "type": "static"
+  },
+  {
+    "source": "npm:@nestjs/mapped-types",
+    "target": "npm:class-validator",
     "type": "static"
   },
   {
@@ -4800,6 +5390,11 @@
     "type": "static"
   },
   {
+    "source": "npm:@protobufjs/fetch",
+    "target": "npm:@protobufjs/aspromise",
+    "type": "static"
+  },
+  {
     "source": "npm:@radix-ui/react-compose-refs",
     "target": "npm:react",
     "type": "static"
@@ -4997,6 +5592,11 @@
   {
     "source": "npm:@types/babel__traverse",
     "target": "npm:@babel/types",
+    "type": "static"
+  },
+  {
+    "source": "npm:@types/bcryptjs",
+    "target": "npm:bcryptjs",
     "type": "static"
   },
   {
@@ -6050,6 +6650,16 @@
     "type": "static"
   },
   {
+    "source": "npm:@whatwg-node/promise-helpers@1.3.2",
+    "target": "npm:tslib",
+    "type": "static"
+  },
+  {
+    "source": "npm:@whatwg-node/promise-helpers@2.0.0",
+    "target": "npm:tslib",
+    "type": "static"
+  },
+  {
     "source": "npm:@zkochan/js-yaml",
     "target": "npm:argparse",
     "type": "static"
@@ -6225,6 +6835,11 @@
     "type": "static"
   },
   {
+    "source": "npm:async-retry",
+    "target": "npm:retry",
+    "type": "static"
+  },
+  {
     "source": "npm:autoprefixer",
     "target": "npm:browserslist",
     "type": "static"
@@ -6252,6 +6867,11 @@
   {
     "source": "npm:autoprefixer",
     "target": "npm:postcss-value-parser",
+    "type": "static"
+  },
+  {
+    "source": "npm:available-typed-arrays",
+    "target": "npm:possible-typed-array-names",
     "type": "static"
   },
   {
@@ -6885,6 +7505,26 @@
     "type": "static"
   },
   {
+    "source": "npm:call-bind",
+    "target": "npm:call-bind-apply-helpers",
+    "type": "static"
+  },
+  {
+    "source": "npm:call-bind",
+    "target": "npm:es-define-property",
+    "type": "static"
+  },
+  {
+    "source": "npm:call-bind",
+    "target": "npm:get-intrinsic",
+    "type": "static"
+  },
+  {
+    "source": "npm:call-bind",
+    "target": "npm:set-function-length",
+    "type": "static"
+  },
+  {
     "source": "npm:call-bound",
     "target": "npm:call-bind-apply-helpers",
     "type": "static"
@@ -6972,6 +7612,21 @@
   {
     "source": "npm:chokidar@5.0.0",
     "target": "npm:readdirp@5.1.1",
+    "type": "static"
+  },
+  {
+    "source": "npm:class-validator",
+    "target": "npm:@types/validator",
+    "type": "static"
+  },
+  {
+    "source": "npm:class-validator",
+    "target": "npm:libphonenumber-js",
+    "type": "static"
+  },
+  {
+    "source": "npm:class-validator",
+    "target": "npm:validator",
     "type": "static"
   },
   {
@@ -7212,6 +7867,11 @@
   {
     "source": "npm:cosmiconfig@9.0.2",
     "target": "npm:typescript",
+    "type": "static"
+  },
+  {
+    "source": "npm:cross-inspect",
+    "target": "npm:tslib",
     "type": "static"
   },
   {
@@ -7697,6 +8357,21 @@
   {
     "source": "npm:defaults",
     "target": "npm:clone",
+    "type": "static"
+  },
+  {
+    "source": "npm:define-data-property",
+    "target": "npm:es-define-property",
+    "type": "static"
+  },
+  {
+    "source": "npm:define-data-property",
+    "target": "npm:es-errors",
+    "type": "static"
+  },
+  {
+    "source": "npm:define-data-property",
+    "target": "npm:gopd",
     "type": "static"
   },
   {
@@ -8735,6 +9410,11 @@
     "type": "static"
   },
   {
+    "source": "npm:for-each",
+    "target": "npm:is-callable",
+    "type": "static"
+  },
+  {
     "source": "npm:foreground-child",
     "target": "npm:cross-spawn",
     "type": "static"
@@ -8977,6 +9657,31 @@
   {
     "source": "npm:glob",
     "target": "npm:path-scurry",
+    "type": "static"
+  },
+  {
+    "source": "npm:graphql-tag",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:graphql-tag",
+    "target": "npm:tslib",
+    "type": "static"
+  },
+  {
+    "source": "npm:graphql-ws",
+    "target": "npm:graphql",
+    "type": "static"
+  },
+  {
+    "source": "npm:graphql-ws",
+    "target": "npm:ws",
+    "type": "static"
+  },
+  {
+    "source": "npm:has-property-descriptors",
+    "target": "npm:es-define-property",
     "type": "static"
   },
   {
@@ -9262,6 +9967,11 @@
   {
     "source": "npm:is-plain-object",
     "target": "npm:isobject",
+    "type": "static"
+  },
+  {
+    "source": "npm:is-typed-array",
+    "target": "npm:which-typed-array",
     "type": "static"
   },
   {
@@ -10846,7 +11556,7 @@
   },
   {
     "source": "npm:mysql2",
-    "target": "npm:long",
+    "target": "npm:long@5.3.2",
     "type": "static"
   },
   {
@@ -13250,6 +13960,51 @@
     "type": "static"
   },
   {
+    "source": "npm:set-function-length",
+    "target": "npm:define-data-property",
+    "type": "static"
+  },
+  {
+    "source": "npm:set-function-length",
+    "target": "npm:es-errors",
+    "type": "static"
+  },
+  {
+    "source": "npm:set-function-length",
+    "target": "npm:function-bind",
+    "type": "static"
+  },
+  {
+    "source": "npm:set-function-length",
+    "target": "npm:get-intrinsic",
+    "type": "static"
+  },
+  {
+    "source": "npm:set-function-length",
+    "target": "npm:gopd",
+    "type": "static"
+  },
+  {
+    "source": "npm:set-function-length",
+    "target": "npm:has-property-descriptors",
+    "type": "static"
+  },
+  {
+    "source": "npm:sha.js",
+    "target": "npm:inherits",
+    "type": "static"
+  },
+  {
+    "source": "npm:sha.js",
+    "target": "npm:safe-buffer",
+    "type": "static"
+  },
+  {
+    "source": "npm:sha.js",
+    "target": "npm:to-buffer",
+    "type": "static"
+  },
+  {
     "source": "npm:shallow-clone",
     "target": "npm:kind-of",
     "type": "static"
@@ -13895,6 +14650,21 @@
     "type": "static"
   },
   {
+    "source": "npm:to-buffer",
+    "target": "npm:isarray@2.0.5",
+    "type": "static"
+  },
+  {
+    "source": "npm:to-buffer",
+    "target": "npm:safe-buffer",
+    "type": "static"
+  },
+  {
+    "source": "npm:to-buffer",
+    "target": "npm:typed-array-buffer",
+    "type": "static"
+  },
+  {
     "source": "npm:to-regex-range",
     "target": "npm:is-number",
     "type": "static"
@@ -14022,6 +14792,21 @@
   {
     "source": "npm:type-is",
     "target": "npm:mime-types@3.0.2",
+    "type": "static"
+  },
+  {
+    "source": "npm:typed-array-buffer",
+    "target": "npm:call-bound",
+    "type": "static"
+  },
+  {
+    "source": "npm:typed-array-buffer",
+    "target": "npm:es-errors",
+    "type": "static"
+  },
+  {
+    "source": "npm:typed-array-buffer",
+    "target": "npm:is-typed-array",
     "type": "static"
   },
   {
@@ -14802,6 +15587,41 @@
   {
     "source": "npm:whatwg-encoding",
     "target": "npm:iconv-lite@0.6.3",
+    "type": "static"
+  },
+  {
+    "source": "npm:which-typed-array",
+    "target": "npm:available-typed-arrays",
+    "type": "static"
+  },
+  {
+    "source": "npm:which-typed-array",
+    "target": "npm:call-bind",
+    "type": "static"
+  },
+  {
+    "source": "npm:which-typed-array",
+    "target": "npm:call-bound",
+    "type": "static"
+  },
+  {
+    "source": "npm:which-typed-array",
+    "target": "npm:for-each",
+    "type": "static"
+  },
+  {
+    "source": "npm:which-typed-array",
+    "target": "npm:get-proto",
+    "type": "static"
+  },
+  {
+    "source": "npm:which-typed-array",
+    "target": "npm:gopd",
+    "type": "static"
+  },
+  {
+    "source": "npm:which-typed-array",
+    "target": "npm:has-tostringtag",
     "type": "static"
   },
   {

@@ -185,3 +185,4 @@ coverage/
 # nx
 .nx/cache
 .nx/workspace-data
+vitest.config.*.timestamp*

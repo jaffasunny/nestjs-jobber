@@ -336,6 +336,14 @@
       "apps/jobber-auth/vitest.config.mts",
       "@nx/vitest"
     ],
+    "metadata.targetGroups.TEST (CI).4": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).5": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
     "targets.test": [
       "apps/jobber-auth/vitest.config.mts",
       "@nx/vitest"
@@ -704,6 +712,190 @@
       "apps/jobber-auth/vitest.config.mts",
       "@nx/vitest"
     ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.cache": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.inputs.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.inputs.1": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.inputs.2": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.inputs.3": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.inputs.4": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.inputs.5": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.inputs.6": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.inputs": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.outputs.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.outputs": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.metadata": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.executor": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.options.cwd": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.options.command": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.options": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.metadata.technologies": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.metadata.technologies.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.metadata.description": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.metadata.help": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.metadata.help.command": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.resolver.spec.ts.metadata.help.example": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.cache": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.inputs.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.inputs.1": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.inputs.2": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.inputs.3": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.inputs.4": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.inputs.5": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.inputs.6": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.inputs": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.outputs.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.outputs": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.metadata": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.executor": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.options.cwd": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.options.command": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.options": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.metadata.technologies": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.metadata.technologies.0": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.metadata.description": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.metadata.help": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.metadata.help.command": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/app/users/users.service.spec.ts.metadata.help.example": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
     "targets.test-ci": [
       "apps/jobber-auth/vitest.config.mts",
       "@nx/vitest"
@@ -760,6 +952,14 @@
       "apps/jobber-auth/vitest.config.mts",
       "@nx/vitest"
     ],
+    "targets.test-ci.outputs.3": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.outputs.4": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
     "targets.test-ci.outputs": [
       "apps/jobber-auth/vitest.config.mts",
       "@nx/vitest"
@@ -773,6 +973,14 @@
       "@nx/vitest"
     ],
     "targets.test-ci.dependsOn.2": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.3": [
+      "apps/jobber-auth/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.4": [
       "apps/jobber-auth/vitest.config.mts",
       "@nx/vitest"
     ],
@@ -1176,6 +1384,228 @@
     ],
     "targets.e2e.options": [
       "apps/jobber-auth-e2e/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "libs/nestjs": {
+    "root": [
+      "libs/nestjs/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.cache": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.0": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.1": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.2": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.3": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.4": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.5": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.outputs.0": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.outputs": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.executor": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.cwd": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.command": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies.0": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.description": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.command": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.example": [
+      "libs/nestjs/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "metadata.targetGroups": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI)": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.cache": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.0": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.1": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.2": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.3": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.4": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.5": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.6": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.outputs.0": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.outputs": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.executor": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.options.cwd": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.options.command": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.options": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.technologies": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.technologies.0": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.description": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.help": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.help.command": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.help.example": [
+      "libs/nestjs/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "name": [
+      "libs/nestjs/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "libs/nestjs/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "libs/nestjs/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "libs/nestjs/project.json",
+      "nx/core/project-json"
+    ],
+    "// targets": [
+      "libs/nestjs/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "libs/nestjs/project.json",
       "nx/core/project-json"
     ]
   }
