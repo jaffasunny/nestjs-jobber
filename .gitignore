@@ -163,6 +163,11 @@ x86/
 *.db-journal
 dump.rdb
 
+# Prisma generated client
+**/src/generated/prisma/
+node_modules/.prisma/
+node_modules/@prisma-clients/
+
 # =========================
 # Misc
 # =========================
@@ -175,3 +180,8 @@ coverage/
 .nyc_output/
 *.tgz
 *.tar.gz
+
+
+# nx
+.nx/cache
+.nx/workspace-data

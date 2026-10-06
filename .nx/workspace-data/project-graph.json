@@ -12763,6 +12763,16 @@
       },
       {
         "source": "jobber-auth",
+        "target": "npm:@prisma/adapter-pg",
+        "type": "static"
+      },
+      {
+        "source": "jobber-auth",
+        "target": "npm:pg",
+        "type": "static"
+      },
+      {
+        "source": "jobber-auth",
         "target": "npm:@nestjs/core",
         "type": "static"
       },
@@ -29177,5 +29187,5 @@
   },
   "version": "6.0",
   "errors": [],
-  "computedAt": 1791277039780
+  "computedAt": 1791279509602
 }
