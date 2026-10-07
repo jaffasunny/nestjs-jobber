@@ -1,4 +1,5 @@
 import { Test } from '@nestjs/testing';
+import { PrismaService } from './prisma/prisma.service';
 import { AppService } from './app.service';
 
 describe('AppService', () => {
@@ -6,15 +7,24 @@ describe('AppService', () => {
 
   beforeAll(async () => {
     const app = await Test.createTestingModule({
-      providers: [AppService],
+      providers: [
+        AppService,
+        {
+          provide: PrismaService,
+          useValue: { user: { findMany: vi.fn().mockResolvedValue([]) } },
+        },
+      ],
     }).compile();
 
     service = app.get<AppService>(AppService);
   });
 
   describe('getData', () => {
-    it('should return "Hello API"', () => {
-      expect(service.getData()).toEqual({ message: 'Hello API' });
+    it('should return the message and users', async () => {
+      await expect(service.getData()).resolves.toEqual({
+        message: 'Hello API',
+        users: [],
+      });
     });
   });
 });

@@ -5,6 +5,9 @@
   "projectType": "application",
   "tags": [],
   "targets": {
+    "test": {
+      "dependsOn": ["generate-types"]
+    },
     "build": {
       "dependsOn": ["generate-types"]
     },
@@ -52,7 +55,7 @@
       }
     },
     "generate-types": {
-      "command": "prisma generate", 
+      "command": "prisma generate",
       "options": {
         "cwd": "apps/jobber-auth"
       }
