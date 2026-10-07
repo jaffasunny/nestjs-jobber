@@ -7785,6 +7785,15 @@
         "hash": "sha512-dFcAjpTQFgoLMzC2VwU+C/CbS7uRL0lWmxDITmqm7C+7F0Odmj6s9l6alZc6AELXhrnggM2CeWSXHGOdX2YtwA=="
       }
     },
+    "npm:husky": {
+      "type": "npm",
+      "name": "npm:husky",
+      "data": {
+        "version": "9.1.7",
+        "packageName": "husky",
+        "hash": "sha512-5gs5ytaNjBrh5Ow3zrvdUUY+0VxIuWVL4i9irt6friV+BqdCfmV11CQTWMiBYWHbXhco+J1kHfTOUkePhCDvMA=="
+      }
+    },
     "npm:hyperdyperid": {
       "type": "npm",
       "name": "npm:hyperdyperid",
@@ -8836,6 +8845,15 @@
         "version": "2.0.3",
         "packageName": "lines-and-columns",
         "hash": "sha512-cNOjgCnLB+FnvWWtyRTzmB3POJ+cXxTA81LoW7u8JdmhfXzriropYwpjShnz1QLLWsQwY7nIxoDmcPTwphDK9w=="
+      }
+    },
+    "npm:lint-staged": {
+      "type": "npm",
+      "name": "npm:lint-staged",
+      "data": {
+        "version": "17.6.0",
+        "packageName": "lint-staged",
+        "hash": "sha512-nOhBfYkZEwkFtNzD5pK9s9LkcWoxJ+whLzEnhqi9nl7zTB5n7tg8+9iYgMGx2Wm3VlLu8cbNj0RACzY+nWi5iQ=="
       }
     },
     "npm:load-esm": {
@@ -11709,6 +11727,15 @@
         "hash": "sha512-Mcc5wHehp9aXz1ax6bZUyY5afg9u2rv5cqQI3mRrYkGC8rW2hM02jWuwjtL++LS5qinSyhj2QfLyNsuc+VsExg=="
       }
     },
+    "npm:string-argv": {
+      "type": "npm",
+      "name": "npm:string-argv",
+      "data": {
+        "version": "0.3.2",
+        "packageName": "string-argv",
+        "hash": "sha512-aqD2Q0144Z+/RqG52NeHEkZauTAUWJO8c6yTftGJKO3Tja5tUgIfmIl6kExvhtxSDP7fXB6DvzkfMpCd/F3G+Q=="
+      }
+    },
     "npm:string-length": {
       "type": "npm",
       "name": "npm:string-length",
@@ -12724,6 +12751,15 @@
         "version": "2.9.0",
         "packageName": "yaml",
         "hash": "sha512-2AvhNX3mb8zd6Zy7INTtSpl1F15HW6Wnqj0srWlkKLcpYl/gMIMJiyuGq2KeI2YFxUPjdlB+3Lc10seMLtL4cA=="
+      }
+    },
+    "npm:yaml@2.9.1": {
+      "type": "npm",
+      "name": "npm:yaml@2.9.1",
+      "data": {
+        "version": "2.9.1",
+        "packageName": "yaml",
+        "hash": "sha512-3NxN8+78OdzbT7C/WjGsyfPAtJaN3FNDsWxv7Y7mcDsT/oOmgW8BpyQQFFBnvZE3j9Y2Sdz1ULFLezL7Eb2yFw=="
       }
     },
     "npm:yargs-parser": {
@@ -15380,6 +15416,9 @@
     "https-proxy-agent@5.0.1(supports-color@8.1.1)": [
       "npm:https-proxy-agent"
     ],
+    "husky@9.1.7": [
+      "npm:husky"
+    ],
     "hyperdyperid@1.2.0": [
       "npm:hyperdyperid"
     ],
@@ -15730,6 +15769,9 @@
     ],
     "lines-and-columns@2.0.3": [
       "npm:lines-and-columns"
+    ],
+    "lint-staged@17.6.0": [
+      "npm:lint-staged"
     ],
     "load-esm@1.0.3": [
       "npm:load-esm"
@@ -16684,6 +16726,9 @@
     "streamsearch@1.1.0": [
       "npm:streamsearch"
     ],
+    "string-argv@0.3.2": [
+      "npm:string-argv"
+    ],
     "string-length@4.0.2": [
       "npm:string-length"
     ],
@@ -17016,6 +17061,9 @@
     ],
     "yaml@2.9.0": [
       "npm:yaml@2.9.0"
+    ],
+    "yaml@2.9.1": [
+      "npm:yaml@2.9.1"
     ],
     "yargs-parser@21.1.1": [
       "npm:yargs-parser"

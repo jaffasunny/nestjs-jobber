@@ -37,116 +37,67 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": ".prettierignore",
-        "hash": "9507768089658764754"
-      },
-      {
-        "file": "README.md",
-        "hash": "4573307915118417356"
+        "file": ".editorconfig",
+        "hash": "5443105041930014821"
       },
       {
         "file": ".github/workflows/ci.yml",
         "hash": "2541819626565966371"
       },
       {
-        "file": "vitest.config.mts",
-        "hash": "3709886141919828621"
+        "file": ".gitignore",
+        "hash": "3053613121320797101"
       },
       {
-        "file": "pnpm-lock.yaml",
-        "hash": "306386348774436179"
+        "file": ".nx/ci-config.yaml",
+        "hash": "10990963945443312950"
       },
       {
-        "file": "eslint.config.mjs",
-        "hash": "7566070839603645918"
-      },
-      {
-        "file": "docker-compose.yml",
-        "hash": "13512211966660801369"
+        "file": ".prettierignore",
+        "hash": "9507768089658764754"
       },
       {
         "file": ".prettierrc",
         "hash": "16267754514737964994"
       },
       {
-        "file": "package.json",
-        "hash": "5359565909287811737"
+        "file": "README.md",
+        "hash": "4573307915118417356"
       },
       {
-        "file": ".editorconfig",
-        "hash": "5443105041930014821"
+        "file": "docker-compose.yml",
+        "hash": "13512211966660801369"
       },
       {
-        "file": "tsconfig.base.json",
-        "hash": "7040773897909161717"
-      },
-      {
-        "file": "pnpm-workspace.yaml",
-        "hash": "11036707710145659551"
-      },
-      {
-        "file": ".gitignore",
-        "hash": "3053613121320797101"
+        "file": "eslint.config.mjs",
+        "hash": "7566070839603645918"
       },
       {
         "file": "nx.json",
         "hash": "12438048727235016587"
       },
       {
-        "file": ".nx/ci-config.yaml",
-        "hash": "10990963945443312950"
+        "file": "package.json",
+        "hash": "6264283549416211771"
+      },
+      {
+        "file": "pnpm-lock.yaml",
+        "hash": "15888305630803793177"
+      },
+      {
+        "file": "pnpm-workspace.yaml",
+        "hash": "11036707710145659551"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "7040773897909161717"
+      },
+      {
+        "file": "vitest.config.mts",
+        "hash": "3709886141919828621"
       }
     ],
     "projectFileMap": {
-      "nestjs": [
-        {
-          "file": "libs/nestjs/README.md",
-          "hash": "5404472336504045011"
-        },
-        {
-          "file": "libs/nestjs/eslint.config.mjs",
-          "hash": "2624537849564014525"
-        },
-        {
-          "file": "libs/nestjs/project.json",
-          "hash": "12590315033255750300"
-        },
-        {
-          "file": "libs/nestjs/src/index.ts",
-          "hash": "3307344207351984770"
-        },
-        {
-          "file": "libs/nestjs/src/lib/graphql/abstract.model.ts",
-          "hash": "5216981993805115995",
-          "deps": [
-            "npm:@nestjs/graphql"
-          ]
-        },
-        {
-          "file": "libs/nestjs/src/lib/graphql/index.ts",
-          "hash": "12537784035195712110"
-        },
-        {
-          "file": "libs/nestjs/tsconfig.json",
-          "hash": "12975668481162286788"
-        },
-        {
-          "file": "libs/nestjs/tsconfig.lib.json",
-          "hash": "7777114980389568680"
-        },
-        {
-          "file": "libs/nestjs/tsconfig.spec.json",
-          "hash": "16829233919054324066"
-        },
-        {
-          "file": "libs/nestjs/vitest.config.mts",
-          "hash": "12813079836686093793",
-          "deps": [
-            "npm:vitest",
-            "npm:@nx/vite"
-          ]
-        }
-      ],
       "jobber-auth": [
         {
           "file": "apps/jobber-auth/eslint.config.mjs",
@@ -378,8 +329,57 @@
           "file": "apps/jobber-auth-e2e/tsconfig.spec.json",
           "hash": "14954872453723519891"
         }
+      ],
+      "nestjs": [
+        {
+          "file": "libs/nestjs/README.md",
+          "hash": "5404472336504045011"
+        },
+        {
+          "file": "libs/nestjs/eslint.config.mjs",
+          "hash": "2624537849564014525"
+        },
+        {
+          "file": "libs/nestjs/project.json",
+          "hash": "12590315033255750300"
+        },
+        {
+          "file": "libs/nestjs/src/index.ts",
+          "hash": "3307344207351984770"
+        },
+        {
+          "file": "libs/nestjs/src/lib/graphql/abstract.model.ts",
+          "hash": "5216981993805115995",
+          "deps": [
+            "npm:@nestjs/graphql"
+          ]
+        },
+        {
+          "file": "libs/nestjs/src/lib/graphql/index.ts",
+          "hash": "12537784035195712110"
+        },
+        {
+          "file": "libs/nestjs/tsconfig.json",
+          "hash": "12975668481162286788"
+        },
+        {
+          "file": "libs/nestjs/tsconfig.lib.json",
+          "hash": "7777114980389568680"
+        },
+        {
+          "file": "libs/nestjs/tsconfig.spec.json",
+          "hash": "16829233919054324066"
+        },
+        {
+          "file": "libs/nestjs/vitest.config.mts",
+          "hash": "12813079836686093793",
+          "deps": [
+            "npm:vitest",
+            "npm:@nx/vite"
+          ]
+        }
       ]
     }
   },
-  "externalNodesHash": "14435072240466486752"
+  "externalNodesHash": "8061403818254077265"
 }

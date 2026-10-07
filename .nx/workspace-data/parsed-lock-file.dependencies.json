@@ -11250,6 +11250,26 @@
     "type": "static"
   },
   {
+    "source": "npm:lint-staged",
+    "target": "npm:picomatch@4.0.7",
+    "type": "static"
+  },
+  {
+    "source": "npm:lint-staged",
+    "target": "npm:string-argv",
+    "type": "static"
+  },
+  {
+    "source": "npm:lint-staged",
+    "target": "npm:tinyexec",
+    "type": "static"
+  },
+  {
+    "source": "npm:lint-staged",
+    "target": "npm:yaml@2.9.1",
+    "type": "static"
+  },
+  {
     "source": "npm:loader-utils",
     "target": "npm:big.js",
     "type": "static"

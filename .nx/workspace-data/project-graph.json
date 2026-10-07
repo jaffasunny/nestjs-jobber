@@ -8620,6 +8620,15 @@
         "hash": "sha512-dFcAjpTQFgoLMzC2VwU+C/CbS7uRL0lWmxDITmqm7C+7F0Odmj6s9l6alZc6AELXhrnggM2CeWSXHGOdX2YtwA=="
       }
     },
+    "npm:husky": {
+      "type": "npm",
+      "name": "npm:husky",
+      "data": {
+        "version": "9.1.7",
+        "packageName": "husky",
+        "hash": "sha512-5gs5ytaNjBrh5Ow3zrvdUUY+0VxIuWVL4i9irt6friV+BqdCfmV11CQTWMiBYWHbXhco+J1kHfTOUkePhCDvMA=="
+      }
+    },
     "npm:hyperdyperid": {
       "type": "npm",
       "name": "npm:hyperdyperid",
@@ -9671,6 +9680,15 @@
         "version": "2.0.3",
         "packageName": "lines-and-columns",
         "hash": "sha512-cNOjgCnLB+FnvWWtyRTzmB3POJ+cXxTA81LoW7u8JdmhfXzriropYwpjShnz1QLLWsQwY7nIxoDmcPTwphDK9w=="
+      }
+    },
+    "npm:lint-staged": {
+      "type": "npm",
+      "name": "npm:lint-staged",
+      "data": {
+        "version": "17.6.0",
+        "packageName": "lint-staged",
+        "hash": "sha512-nOhBfYkZEwkFtNzD5pK9s9LkcWoxJ+whLzEnhqi9nl7zTB5n7tg8+9iYgMGx2Wm3VlLu8cbNj0RACzY+nWi5iQ=="
       }
     },
     "npm:load-esm": {
@@ -12544,6 +12562,15 @@
         "hash": "sha512-Mcc5wHehp9aXz1ax6bZUyY5afg9u2rv5cqQI3mRrYkGC8rW2hM02jWuwjtL++LS5qinSyhj2QfLyNsuc+VsExg=="
       }
     },
+    "npm:string-argv": {
+      "type": "npm",
+      "name": "npm:string-argv",
+      "data": {
+        "version": "0.3.2",
+        "packageName": "string-argv",
+        "hash": "sha512-aqD2Q0144Z+/RqG52NeHEkZauTAUWJO8c6yTftGJKO3Tja5tUgIfmIl6kExvhtxSDP7fXB6DvzkfMpCd/F3G+Q=="
+      }
+    },
     "npm:string-length": {
       "type": "npm",
       "name": "npm:string-length",
@@ -13559,6 +13586,15 @@
         "version": "2.9.0",
         "packageName": "yaml",
         "hash": "sha512-2AvhNX3mb8zd6Zy7INTtSpl1F15HW6Wnqj0srWlkKLcpYl/gMIMJiyuGq2KeI2YFxUPjdlB+3Lc10seMLtL4cA=="
+      }
+    },
+    "npm:yaml@2.9.1": {
+      "type": "npm",
+      "name": "npm:yaml@2.9.1",
+      "data": {
+        "version": "2.9.1",
+        "packageName": "yaml",
+        "hash": "sha512-3NxN8+78OdzbT7C/WjGsyfPAtJaN3FNDsWxv7Y7mcDsT/oOmgW8BpyQQFFBnvZE3j9Y2Sdz1ULFLezL7Eb2yFw=="
       }
     },
     "npm:yargs-parser": {
@@ -26079,6 +26115,28 @@
         "type": "static"
       }
     ],
+    "npm:lint-staged": [
+      {
+        "source": "npm:lint-staged",
+        "target": "npm:picomatch@4.0.7",
+        "type": "static"
+      },
+      {
+        "source": "npm:lint-staged",
+        "target": "npm:string-argv",
+        "type": "static"
+      },
+      {
+        "source": "npm:lint-staged",
+        "target": "npm:tinyexec",
+        "type": "static"
+      },
+      {
+        "source": "npm:lint-staged",
+        "target": "npm:yaml@2.9.1",
+        "type": "static"
+      }
+    ],
     "npm:loader-utils": [
       {
         "source": "npm:loader-utils",
@@ -31022,5 +31080,5 @@
   },
   "version": "6.0",
   "errors": [],
-  "computedAt": 1791286020249
+  "computedAt": 1791357357678
 }
